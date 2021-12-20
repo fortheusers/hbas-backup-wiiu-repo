@@ -1,0 +1,11 @@
+{
+  "title": "FTPiiU",
+  "author": "joedj / Dimok",
+  "category": "legacy",
+  "version": "0.4",
+  "url": "https://gbatemp.net/threads/ftpiiu.416907/",
+  "license": "",
+  "description": "An FTP server",
+  "details": "ftpiiU is an FTP server for WiiU.\\n\\n\tPorted to WiiU by Dimok.\\n\tBased on FTPii from joedj\\n  ",
+  "changelog": ""
+}

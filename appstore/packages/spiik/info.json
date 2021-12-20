@@ -1,0 +1,11 @@
+{
+  "title": "Spiik",
+  "author": "::Phoenix::",
+  "category": "legacy",
+  "version": "0.1b",
+  "url": "https://gbatemp.net/threads/release-spiik-region-language-changer.464126/#post-7168598",
+  "license": "",
+  "description": "Enhance Region Free",
+  "details": "Spiik\\n\\nSpiik is a Wii U homebrew that enchances the region-free feature of current custom firmwares.\\n\\nIt makes your games believe they are run on a specific console region and system language.\\n\\nWhy do I need it?\\n\\nThere are many games that even with region-free CFWs, freeze if not of the same region of the console. This happens because the game still checks the console region in order to decide what folders and files to load. If of a different region, the game will not find the right folders/files and would freeze.\\n\\nHow do I use it?\\n\\nJust run the elf in HBL, choose the region and language you want to enforce and press A. You will be redirected to the Wii U menu. Every game you run will think the console region and language are the ones you selected.\\n\\nTo disable Spiik, just go back to the HBL/HBLC.\\n",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Homebrew Launcher",
+  "author": "Dimok",
+  "category": "legacy",
+  "version": "1.4",
+  "url": "https://gbatemp.net/threads/homebrew-launcher-darker-mod.448883/",
+  "license": "",
+  "description": "WiiU Homebrew Launcher",
+  "details": "Loads WiiU homebrew from SD card and from network.\\n\\n  \tDark Theme of HBL 1.4 compiled and themed by Irastris\\n\\n  ",
+  "changelog": ""
+}

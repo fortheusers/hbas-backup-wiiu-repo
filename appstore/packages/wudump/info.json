@@ -1,0 +1,11 @@
+{
+  "title": "wudump",
+  "author": "FIX94",
+  "category": "legacy",
+  "version": "1.6",
+  "url": "https://github.com/FIX94/wudump/releases",
+  "license": "",
+  "description": "dump raw images from a wiiu disc",
+  "details": "Download and run the .elf from homebrew launcher with a sd card/usb device inserted that has at least 23.3gb free.\\nThe files will be dumped in 2gb parts, unless you are dumping your disc to a NTFS partion, you will have to merge them yourself afterwards.\\n\\nA full dump can take a little over one and a half hours.\\nAfter it has been dumped the wud parts and the key.bin will be in a wudump folder on your sd card/usb device.\\n  ",
+  "changelog": ""
+}

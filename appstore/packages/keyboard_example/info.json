@@ -1,0 +1,11 @@
+{
+  "title": "WiiU Keyboard",
+  "author": "cmdj13",
+  "category": "legacy",
+  "version": "1",
+  "url": "https://github.com/cmdj13/WiiU-Keyboard",
+  "license": "",
+  "description": "WiiU keyboard",
+  "details": "This is a keyboard for the Nintendo WiiU.\\n\\nBinaries can be found in the Release section.\\n\\nSupport and further information can be found at https://gbatemp.net/threads/wip-wiiu-keyboard.414995\\n\\nBig thanks to CreeperMario who ported this to HBL and made it available for use by other developers! \\n\\nMeta and Icon by Pwsincd.\\n",
+  "changelog": ""
+}

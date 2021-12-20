@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>TetrisU</name>
+  <coder>ulquiorra-dev</coder>
+  <version>0.1</version>
+  <release_date>20200325210000</release_date>
+  <short_description>Tetris game</short_description> 
+  <long_description>
+  This is a simple Tetris game for WiiU made using SDL2 and C++.
+  Thanks to all who help me.  
+  
+  
+
+  </long_description> 
+  <url>https://github.com/ulquiorra-dev/SDL_TETRIS_WiiU_Port</url>
+  <category>game</category>
+
+</app>

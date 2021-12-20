@@ -1,0 +1,11 @@
+{
+  "title": "ddd",
+  "author": "Dimok",
+  "category": "legacy",
+  "version": "0.3",
+  "url": "https://gbatemp.net/threads/ddd-wiiu-title-dumper.418492/",
+  "license": "",
+  "description": "WiiU Title Dumper",
+  "details": "This application dumps available data of any title that is entered over network to a PC application.\\n  ",
+  "changelog": ""
+}

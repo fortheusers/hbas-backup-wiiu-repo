@@ -1,0 +1,8 @@
+G: haxchi/config.txt
+G: haxchi/title.txt
+G: haxchi/iconTex.tga
+G: haxchi/bootTvTex.tga
+G: haxchi/bootDrcTex.tga
+U: wiiu/apps/haxchi/meta.xml
+U: wiiu/apps/haxchi/haxchi.elf
+U: wiiu/apps/haxchi/icon.png

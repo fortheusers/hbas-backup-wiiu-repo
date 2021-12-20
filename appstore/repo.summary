@@ -1,0 +1,1157 @@
+{
+    "PluginPlayground_WUPS": [
+        "U: wiiu/plugins/overlay_test.mod", 
+        "U: wiiu/plugins/vpad_input_logger.mod", 
+        "U: wiiu/plugins/padcon.mod", 
+        "U: wiiu/plugins/nnu_patcher.mod", 
+        "U: wiiu/plugins/memory_info.mod"
+    ], 
+    "spacegame": [
+        "U: screen2.png", 
+        "U: screen3.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/spacegame/.DS_Store", 
+        "U: wiiu/apps/spacegame/icon.png", 
+        "U: wiiu/apps/spacegame/meta.xml", 
+        "U: wiiu/apps/spacegame/space.elf"
+    ], 
+    "HBL_Dpad": [
+        "U: wiiu/apps/HBL_Dpad/homebrew_launcher_dpad.elf", 
+        "U: wiiu/apps/HBL_Dpad/icon.png", 
+        "U: wiiu/apps/HBL_Dpad/meta.xml"
+    ], 
+    "ft2sd": [
+        "U: wiiu/apps/ft2sd/icon.png", 
+        "U: wiiu/apps/ft2sd/ft2sd.elf", 
+        "U: wiiu/apps/ft2sd/meta.xml"
+    ], 
+    "diibugger": [
+        "U: wiiu/apps/diibugger/icon.png", 
+        "U: wiiu/apps/diibugger/meta.xml", 
+        "U: wiiu/apps/diibugger/diibugger.elf"
+    ], 
+    "100_Boxes_Wiiu": [
+        "U: screen2.png", 
+        "U: screen3.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/100_Boxes_Wiiu/100_Boxes.rpx", 
+        "U: wiiu/apps/100_Boxes_Wiiu/icon.png", 
+        "U: wiiu/apps/100_Boxes_Wiiu/meta.xml"
+    ], 
+    "hbl_dark": [
+        "U: screen1.png", 
+        "U: wiiu/apps/hbl_dark/icon.png", 
+        "U: wiiu/apps/hbl_dark/meta.xml", 
+        "U: wiiu/apps/hbl_dark/homebrew_launcher.elf"
+    ], 
+    "gacubeboy": [
+        "U: screen1.png", 
+        "U: wiiu/apps/gacubeboy/gacubeboy.elf", 
+        "U: wiiu/apps/gacubeboy/icon.png", 
+        "U: wiiu/apps/gacubeboy/meta.xml"
+    ], 
+    "wup_installer_gx2_mod": [
+        "U: screen1.png", 
+        "U: wiiu/apps/wup_installer_gx2_mod/wup_installer_gx2.elf", 
+        "U: wiiu/apps/wup_installer_gx2_mod/icon.png", 
+        "U: wiiu/apps/wup_installer_gx2_mod/meta.xml"
+    ], 
+    "SplatfestDL": [
+        "U: wiiu/apps/SplatfestDL/icon.png", 
+        "U: wiiu/apps/SplatfestDL/meta.xml", 
+        "U: wiiu/apps/SplatfestDL/SplatfestDL.rpx"
+    ], 
+    "dumpling": [
+        "U: wiiu/apps/dumpling/icon.png", 
+        "U: wiiu/apps/dumpling/meta.xml", 
+        "U: wiiu/apps/dumpling/dumpling.rpx"
+    ], 
+    "ftpiiu_everywhere": [
+        "U: screen1.png", 
+        "U: wiiu/apps/ftpiiu_everywhere/ftpiiu_everywhere.elf", 
+        "U: wiiu/apps/ftpiiu_everywhere/icon.png", 
+        "U: wiiu/apps/ftpiiu_everywhere/meta.xml"
+    ], 
+    "sm4sh2sd": [
+        "U: wiiu/apps/sm4sh2sd/sm4sh2sd.elf", 
+        "U: wiiu/apps/sm4sh2sd/icon.png", 
+        "U: wiiu/apps/sm4sh2sd/meta.xml"
+    ], 
+    "wuphax": [
+        "U: wiiu/apps/wuphax/icon.png", 
+        "U: wiiu/apps/wuphax/wuphax.elf", 
+        "U: wiiu/apps/wuphax/meta.xml"
+    ], 
+    "haxchi": [
+        "U: wiiu/apps/haxchi/icon.png", 
+        "U: wiiu/apps/haxchi/meta.xml", 
+        "U: wiiu/apps/haxchi/haxchi.elf", 
+        "G: haxchi/config.txt", 
+        "G: haxchi/bootTvTex.tga", 
+        "G: haxchi/title.txt", 
+        "G: haxchi/bootDrcTex.tga", 
+        "G: haxchi/iconTex.tga"
+    ], 
+    "hbl2hbc": [
+        "U: wiiu/apps/hbl2hbc/hbl2hbc.elf", 
+        "U: wiiu/apps/hbl2hbc/icon.png", 
+        "U: wiiu/apps/hbl2hbc/meta.xml"
+    ], 
+    "Padcon": [
+        "U: wiiu/apps/Padcon/padcon.elf", 
+        "U: wiiu/apps/Padcon/icon.png", 
+        "U: wiiu/apps/Padcon/meta.xml"
+    ], 
+    "vWii_decaffeinator": [
+        "U: wiiu/apps/decaffeinator/icon.png", 
+        "U: wiiu/apps/decaffeinator/meta.xml", 
+        "U: wiiu/apps/decaffeinator/decaffeinator.rpx"
+    ], 
+    "seeprom2sd": [
+        "U: wiiu/apps/seeprom2sd/seeprom2sd.elf", 
+        "U: wiiu/apps/seeprom2sd/icon.png", 
+        "U: wiiu/apps/seeprom2sd/meta.xml"
+    ], 
+    "swapdrc_lite": [
+        "U: wiiu/apps/swapdrc_lite/icon.png", 
+        "U: wiiu/apps/swapdrc_lite/meta.xml", 
+        "U: wiiu/apps/swapdrc_lite/swapdrc_lite.elf"
+    ], 
+    "Screenshot_WUPS": [
+        "U: wiiu/plugins/screenshot.mod"
+    ], 
+    "appstore": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/appstore/icon.png", 
+        "U: wiiu/apps/appstore/meta.xml", 
+        "U: wiiu/apps/appstore/appstore.rpx"
+    ], 
+    "snake": [
+        "U: screen1.png", 
+        "U: wiiu/apps/snake/snake.elf", 
+        "U: wiiu/apps/snake/icon.png", 
+        "U: wiiu/apps/snake/meta.xml"
+    ], 
+    "savemii_mod": [
+        "U: screen2.png", 
+        "U: screen5.png", 
+        "U: screen3.png", 
+        "U: screen4.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/savemii_mod/icon.png", 
+        "U: wiiu/apps/savemii_mod/meta.xml", 
+        "U: wiiu/apps/savemii_mod/savemii_mod.elf"
+    ], 
+    "nanddumper": [
+        "U: screen1.png", 
+        "U: wiiu/apps/nanddumper/nanddumper.elf", 
+        "U: wiiu/apps/nanddumper/icon.png", 
+        "U: wiiu/apps/nanddumper/meta.xml"
+    ], 
+    "nnupatcher": [
+        "U: wiiu/apps/nnupatcher/nnupatcher.elf", 
+        "U: wiiu/apps/nnupatcher/icon.png", 
+        "U: wiiu/apps/nnupatcher/meta.xml"
+    ], 
+    "Opensupaplex": [
+        "U: screen6.png", 
+        "U: screen2.png", 
+        "U: screen5.png", 
+        "U: screen3.png", 
+        "U: screen4.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D77", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D94", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D09", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L78", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L77", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS98.TXT", 
+        "U: wiiu/apps/OpenSupaplex/CHARS6.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L32", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS01.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L10", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D07", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D32", 
+        "U: wiiu/apps/OpenSupaplex/CHARS8.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L07", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L09", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS03.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS77.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L01", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L08", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L11", 
+        "U: wiiu/apps/OpenSupaplex/myspsig.txt", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS36.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L24", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS09.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS02.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPFIX63.DOC", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS08.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D96", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D78", 
+        "U: wiiu/apps/OpenSupaplex/DEMO4.BIN", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D11", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D05", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS27.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS95.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS10.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS78.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS94.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS11.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D01", 
+        "U: wiiu/apps/OpenSupaplex/MOVING.DAT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS04.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L12", 
+        "U: wiiu/apps/OpenSupaplex/MENU.DAT", 
+        "U: wiiu/apps/OpenSupaplex/DEMO6.BIN", 
+        "U: wiiu/apps/OpenSupaplex/DEMO2.BIN", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS92.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L03", 
+        "U: wiiu/apps/OpenSupaplex/DEMO9.BIN", 
+        "U: wiiu/apps/OpenSupaplex/FIXED.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D93", 
+        "U: wiiu/apps/OpenSupaplex/OpenSupaplex.rpx", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L97", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS12.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D98", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D08", 
+        "U: wiiu/apps/OpenSupaplex/TITLE1.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L35", 
+        "U: wiiu/apps/OpenSupaplex/DEMO8.BIN", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L36", 
+        "U: wiiu/apps/OpenSupaplex/GFX.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D02", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L05", 
+        "U: wiiu/apps/OpenSupaplex/PANEL.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L96", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS07.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L04", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS06.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L02", 
+        "U: wiiu/apps/OpenSupaplex/DEMO3.BIN", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D79", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L93", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L27", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D27", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS96.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D03", 
+        "U: wiiu/apps/OpenSupaplex/icon.png", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D04", 
+        "U: wiiu/apps/OpenSupaplex/CONTROLS.DAT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS35.TXT", 
+        "U: wiiu/apps/OpenSupaplex/TITLE2.DAT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS05.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L95", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D97", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L92", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L94", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D12", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D24", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS32.TXT", 
+        "U: wiiu/apps/OpenSupaplex/DEMO1.BIN", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D95", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D36", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D92", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D35", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS93.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS97.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS24.TXT", 
+        "U: wiiu/apps/OpenSupaplex/SPLVLS79.TXT", 
+        "U: wiiu/apps/OpenSupaplex/BACK.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L06", 
+        "U: wiiu/apps/OpenSupaplex/DEMO7.BIN", 
+        "U: wiiu/apps/OpenSupaplex/TITLE.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D06", 
+        "U: wiiu/apps/OpenSupaplex/LEVELS.D10", 
+        "U: wiiu/apps/OpenSupaplex/README.TXT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L79", 
+        "U: wiiu/apps/OpenSupaplex/meta.xml", 
+        "U: wiiu/apps/OpenSupaplex/DEMO0.BIN", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.L98", 
+        "U: wiiu/apps/OpenSupaplex/DEMO5.BIN", 
+        "U: wiiu/apps/OpenSupaplex/PALETTES.DAT", 
+        "U: wiiu/apps/OpenSupaplex/LEVEL.LST", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/explosion-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/bug-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/base-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/fall-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/explosion-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/infotron-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/bug-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/base-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/infotron-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/explosion-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/fall-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/push-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/exit-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/music-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/bug-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/push-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/bug-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/exit-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/explosion-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/music-roland.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/base-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/infotron-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/exit-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/push-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/exit-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/fall-blaster.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/infotron-adlib.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/base-sample.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/fall-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/push-beep.ogg", 
+        "U: wiiu/apps/OpenSupaplex/audio-hq/music-blaster.ogg"
+    ], 
+    "AocPatcher": [
+        "U: wiiu/apps/AocPatcher/icon.png", 
+        "U: wiiu/apps/AocPatcher/AocPatcher.elf", 
+        "U: wiiu/apps/AocPatcher/meta.xml"
+    ], 
+    "DiiBugger_WUPS": [
+        "U: wiiu/plugins/diibugger.mod"
+    ], 
+    "wups": [
+        "U: wiiu/apps/wiiupluginloader/wiiupluginloader.elf", 
+        "U: wiiu/apps/wiiupluginloader/icon.png", 
+        "U: wiiu/apps/wiiupluginloader/meta.xml"
+    ], 
+    "more_ra_arcade": [
+        "U: retroarch/cores/fbneo_libretro.rpx", 
+        "U: retroarch/cores/fbalpha_libretro.rpx", 
+        "U: retroarch/cores/vice_x64sc_libretro.rpx", 
+        "U: retroarch/cores/vice_x128_libretro.rpx", 
+        "U: retroarch/cores/scummvm_libretro.rpx", 
+        "U: retroarch/cores/fbalpha2012_libretro.rpx", 
+        "U: retroarch/cores/puae_libretro.rpx", 
+        "U: retroarch/cores/vice_x64_libretro.rpx", 
+        "U: retroarch/cores/x64sdl_libretro.rpx", 
+        "U: retroarch/cores/mrboom_libretro.rpx", 
+        "U: retroarch/cores/mame2003_libretro.rpx", 
+        "U: retroarch/cores/mame2009_libretro.rpx", 
+        "U: retroarch/cores/mame2000_libretro.rpx", 
+        "U: retroarch/cores/mame2003_plus_libretro.rpx"
+    ], 
+    "LiveSynthesisU": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/LiveSynthesisU/icon.png", 
+        "U: wiiu/apps/LiveSynthesisU/liveSynthesisPOC.elf", 
+        "U: wiiu/apps/LiveSynthesisU/meta.xml"
+    ], 
+    "UsendMii_Client": [
+        "U: wiiu/apps/UsendMii_Client/icon.png", 
+        "U: wiiu/apps/UsendMii_Client/UsendMii_Client.rpx", 
+        "U: wiiu/apps/UsendMii_Client/meta.xml"
+    ], 
+    "wudump": [
+        "U: screen1.png", 
+        "U: wiiu/apps/wudump/wudump.elf", 
+        "U: wiiu/apps/wudump/icon.png", 
+        "U: wiiu/apps/wudump/meta.xml"
+    ], 
+    "CHIP8": [
+        "U: screen1.png", 
+        "U: wiiu/apps/CHIP8/icon.png", 
+        "U: wiiu/apps/CHIP8/CHIP8.elf", 
+        "U: wiiu/apps/CHIP8/meta.xml"
+    ], 
+    "wupinstaller": [
+        "U: screen1.png", 
+        "U: wiiu/apps/wupinstaller/icon.png", 
+        "U: wiiu/apps/wupinstaller/wupinstaller.elf", 
+        "U: wiiu/apps/wupinstaller/meta.xml"
+    ], 
+    "Minesweeper_WiiU": [
+        "U: screen1.png", 
+        "U: wiiu/apps/Minesweeper_WiiU/Minesweeper.rpx", 
+        "U: wiiu/apps/Minesweeper_WiiU/icon.png", 
+        "U: wiiu/apps/Minesweeper_WiiU/meta.xml"
+    ], 
+    "cfwbooter": [
+        "U: wiiu/apps/cfwbooter/cfwboot.elf", 
+        "U: wiiu/apps/cfwbooter/icon.png", 
+        "U: wiiu/apps/cfwbooter/meta.xml"
+    ], 
+    "clock": [
+        "U: screen1.png", 
+        "U: wiiu/apps/clock/clock.elf", 
+        "U: wiiu/apps/clock/icon.png", 
+        "U: wiiu/apps/clock/meta.xml"
+    ], 
+    "cbhc": [
+        "U: wiiu/apps/cbhc/icon.png", 
+        "U: wiiu/apps/cbhc/cbhc.elf", 
+        "U: wiiu/apps/cbhc/meta.xml", 
+        "G: cbhc/bootTvTex.tga", 
+        "G: cbhc/title.txt", 
+        "G: cbhc/bootDrcTex.tga", 
+        "G: cbhc/iconTex.tga"
+    ], 
+    "Simple_SDL_Snake": [
+        "U: screen1.png", 
+        "U: wiiu/apps/SDLSnake/snake.rpx", 
+        "U: wiiu/apps/SDLSnake/icon.png", 
+        "U: wiiu/apps/SDLSnake/meta.xml"
+    ], 
+    "mocha_sd_access": [
+        "U: wiiu/apps/mocha_sd_access/mocha.elf", 
+        "U: wiiu/apps/mocha_sd_access/icon.png", 
+        "U: wiiu/apps/mocha_sd_access/meta.xml"
+    ], 
+    "wup_installer_gx2": [
+        "U: screen1.png", 
+        "U: wiiu/apps/wup_installer_gx2/wup_installer_gx2.elf", 
+        "U: wiiu/apps/wup_installer_gx2/icon.png", 
+        "U: wiiu/apps/wup_installer_gx2/meta.xml"
+    ], 
+    "vgedit": [
+        "U: wiiu/apps/vgedit/icon.png", 
+        "U: wiiu/apps/vgedit/vgedit.rpx", 
+        "U: wiiu/apps/vgedit/meta.xml"
+    ], 
+    "sigpatcher2HBL": [
+        "U: wiiu/apps/sigpatcher2HBL/sign_patcher.elf", 
+        "U: wiiu/apps/sigpatcher2HBL/icon.png", 
+        "U: wiiu/apps/sigpatcher2HBL/meta.xml"
+    ], 
+    "loadiine_gx2": [
+        "U: wiiu/apps/loadiine_gx2/loadiine_gx2.elf", 
+        "U: wiiu/apps/loadiine_gx2/icon.png", 
+        "U: wiiu/apps/loadiine_gx2/meta.xml"
+    ], 
+    "ftpiiu-cbhc": [
+        "U: screen1.png", 
+        "U: wiiu/apps/fpiiu-cbhc/icon.png", 
+        "U: wiiu/apps/fpiiu-cbhc/ftpiiu.elf", 
+        "U: wiiu/apps/fpiiu-cbhc/meta.xml"
+    ], 
+    "fuckyoustick": [
+        "U: wiiu/apps/fuckyoustick/fuckyoustick.elf", 
+        "U: wiiu/apps/fuckyoustick/icon.png", 
+        "U: wiiu/apps/fuckyoustick/meta.xml"
+    ], 
+    "ddd": [
+        "U: screen1.png", 
+        "U: wiiu/apps/ddd/icon.png", 
+        "U: wiiu/apps/ddd/ddd.elf", 
+        "U: wiiu/apps/ddd/meta.xml"
+    ], 
+    "HIDtoVPAD_WUPS": [
+        "U: wiiu/plugins/hidtovpad.mod", 
+        "U: wiiu/controller/MAYFLASH_N64_Controller_Adapter_for_PC_USB.ini", 
+        "U: wiiu/controller/GameSirG3w_NoLights.ini", 
+        "U: wiiu/controller/xinput.ini", 
+        "U: wiiu/controller/LinuxDevInputControllerXbox360.ini", 
+        "U: wiiu/controller/DualShock2.ini", 
+        "U: wiiu/controller/LinuxDevInputControllerSteam.ini", 
+        "U: wiiu/controller/iBuffalo_SNES_USB_gamepad.ini", 
+        "U: wiiu/controller/GameSirG3w_2Lights.ini", 
+        "U: wiiu/controller/Orange's BigBen BB5033 controller.ini", 
+        "U: wiiu/controller/magic_joy_box_gamecube.ini", 
+        "U: wiiu/controller/switchpro.ini", 
+        "U: wiiu/controller/EasySMX EG-C3071_ZD-VPlus.ini", 
+        "U: wiiu/controller/Core(plus) Wired Controller.ini", 
+        "U: wiiu/controller/Logitech_F310.ini", 
+        "U: wiiu/controller/kiwitata_SNES_USB_gamepad.ini", 
+        "U: wiiu/controller/MAYFLASH_Genesis_Controller_Adapter_for_PC_USB.ini", 
+        "U: wiiu/controller/madcatz_tes+_ps4.ini", 
+        "U: wiiu/controller/proexps3.ini", 
+        "U: wiiu/controller/ZhidongV.ini", 
+        "U: wiiu/controller/pokken_controller.ini", 
+        "U: wiiu/controller/ds4new.ini", 
+        "U: wiiu/controller/Horipad Switch.ini", 
+        "U: wiiu/controller/hori-rap4-kai.ini", 
+        "U: wiiu/controller/random_snes_pad.ini", 
+        "U: wiiu/controller/qanba q1 ps3.ini"
+    ], 
+    "swapdrc": [
+        "U: wiiu/apps/swapdrc/swapdrc.elf", 
+        "U: wiiu/apps/swapdrc/icon.png", 
+        "U: wiiu/apps/swapdrc/meta.xml"
+    ], 
+    "VidChanger": [
+        "U: screen1.png", 
+        "U: wiiu/apps/VidChanger/vidchange.elf", 
+        "U: wiiu/apps/VidChanger/icon.png", 
+        "U: wiiu/apps/VidChanger/meta.xml"
+    ], 
+    "timingu": [
+        "U: wiiu/apps/timingu/timingu.elf", 
+        "U: wiiu/apps/timingu/icon.png", 
+        "U: wiiu/apps/timingu/meta.xml"
+    ], 
+    "shutdown-hbl": [
+        "U: wiiu/apps/shutdown-hbl/shutdown.rpx", 
+        "U: wiiu/apps/shutdown-hbl/icon.png", 
+        "U: wiiu/apps/shutdown-hbl/meta.xml"
+    ], 
+    "sign_c2w_patcher": [
+        "U: wiiu/apps/sign_c2w_patcher/icon.png", 
+        "U: wiiu/apps/sign_c2w_patcher/sign_c2w_patcher.elf", 
+        "U: wiiu/apps/sign_c2w_patcher/meta.xml"
+    ], 
+    "u-paint": [
+        "U: screen1.png", 
+        "U: wiiu/apps/u-paint/icon.png", 
+        "U: wiiu/apps/u-paint/u-paint.elf", 
+        "U: wiiu/apps/u-paint/meta.xml"
+    ], 
+    "mocha_fat32": [
+        "U: wiiu/apps/mocha_fat32/mocha.elf", 
+        "U: wiiu/apps/mocha_fat32/icon.png", 
+        "U: wiiu/apps/mocha_fat32/meta.xml"
+    ], 
+    "menu_sort": [
+        "U: wiiu/apps/menu_sort/dontmove.txt", 
+        "U: wiiu/apps/menu_sort/titlesmap.psv", 
+        "U: wiiu/apps/menu_sort/menu_sort.elf", 
+        "U: wiiu/apps/menu_sort/icon.png", 
+        "U: wiiu/apps/menu_sort/meta.xml"
+    ], 
+    "wim": [
+        "U: screen1.png", 
+        "U: wiiu/apps/wim/wim.elf", 
+        "U: wiiu/apps/wim/icon.png", 
+        "U: wiiu/apps/wim/meta.xml"
+    ], 
+    "disc2app": [
+        "U: screen1.png", 
+        "U: wiiu/apps/disc2app/disc2app.elf", 
+        "U: wiiu/apps/disc2app/icon.png", 
+        "U: wiiu/apps/disc2app/meta.xml"
+    ], 
+    "mocha": [
+        "U: wiiu/apps/mocha/mocha.elf", 
+        "U: wiiu/apps/mocha/icon.png", 
+        "U: wiiu/apps/mocha/meta.xml"
+    ], 
+    "WiiAlarmU": [
+        "U: screen1.png", 
+        "U: wiiu/apps/WiiAlarmU/alarm.elf", 
+        "U: wiiu/apps/WiiAlarmU/icon.png", 
+        "U: wiiu/apps/WiiAlarmU/meta.xml"
+    ], 
+    "fireplace-nx-wiiu": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/fireplace-nx-wiiu/fireplace.rpx", 
+        "U: wiiu/apps/fireplace-nx-wiiu/icon.png", 
+        "U: wiiu/apps/fireplace-nx-wiiu/meta.xml"
+    ], 
+    "wupymod": [
+        "U: screen1.png", 
+        "U: wiiu/apps/wupymod/icon.png", 
+        "U: wiiu/apps/wupymod/wupinstaller.elf", 
+        "U: wiiu/apps/wupymod/meta.xml"
+    ], 
+    "GamepadTester": [
+        "U: wiiu/apps/GamepadTester/GamepadTester.rpx", 
+        "U: wiiu/apps/GamepadTester/icon.png", 
+        "U: wiiu/apps/GamepadTester/meta.xml"
+    ], 
+    "saviine": [
+        "U: wiiu/apps/saviine/saviine.elf", 
+        "U: wiiu/apps/saviine/icon.png", 
+        "U: wiiu/apps/saviine/meta.xml"
+    ], 
+    "SDcafiine": [
+        "U: wiiu/apps/SDcafiine/icon.png", 
+        "U: wiiu/apps/SDcafiine/meta.xml", 
+        "U: wiiu/apps/SDcafiine/sdcafiine.elf"
+    ], 
+    "SwipSwapMe_WUPS": [
+        "U: wiiu/plugins/swipswapme.mod"
+    ], 
+    "lameIRCU": [
+        "U: screen1.png", 
+        "U: wiiu/apps/lameIRCU/icon.png", 
+        "U: wiiu/apps/lameIRCU/lameIRCU.rpx", 
+        "U: wiiu/apps/lameIRCU/meta.xml"
+    ], 
+    "CafeLoader": [
+        "U: wiiu/plugins/cafeloader.mod"
+    ], 
+    "savemii": [
+        "U: wiiu/apps/savemii/savemii.elf", 
+        "U: wiiu/apps/savemii/icon.png", 
+        "U: wiiu/apps/savemii/meta.xml"
+    ], 
+    "TetrisU": [
+        "U: wiiu/apps/SDLTetrisU/tetrisU.rpx", 
+        "U: wiiu/apps/SDLTetrisU/icon.png", 
+        "U: wiiu/apps/SDLTetrisU/meta.xml"
+    ], 
+    "yapesdl": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/yape/yapesdl.rpx", 
+        "U: wiiu/apps/yape/icon.png", 
+        "U: wiiu/apps/yape/meta.xml"
+    ], 
+    "PokeMiniU": [
+        "U: screen1.png", 
+        "U: wiiu/apps/PokeMiniU/PokeMiniU.elf", 
+        "U: wiiu/apps/PokeMiniU/icon.png", 
+        "U: wiiu/apps/PokeMiniU/meta.xml"
+    ], 
+    "fsdumper": [
+        "U: screen1.png", 
+        "U: wiiu/apps/fsdumper/fsdumper.elf", 
+        "U: wiiu/apps/fsdumper/icon.png", 
+        "U: wiiu/apps/fsdumper/meta.xml"
+    ], 
+    "hidtest": [
+        "U: screen1.png", 
+        "U: wiiu/apps/hidtest/icon.png", 
+        "U: wiiu/apps/hidtest/meta.xml", 
+        "U: wiiu/apps/hidtest/hidtest.elf"
+    ], 
+    "retroarch": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/retroarch/retroarch.rpx", 
+        "U: wiiu/apps/retroarch/icon.png", 
+        "U: wiiu/apps/retroarch/meta.xml", 
+        "U: retroarch/cores/gambatte_libretro.rpx", 
+        "U: retroarch/cores/snes9x_libretro.rpx", 
+        "U: retroarch/cores/nestopia_libretro.rpx", 
+        "U: retroarch/cores/mgba_libretro.rpx", 
+        "U: retroarch/cores/info/ume2015_libretro.info", 
+        "U: retroarch/cores/info/vemulator_libretro.info", 
+        "U: retroarch/cores/info/tgbdual_libretro.info", 
+        "U: retroarch/cores/info/stonesoup_libretro.info", 
+        "U: retroarch/cores/info/bsnes_libretro.info", 
+        "U: retroarch/cores/info/o2em_libretro.info", 
+        "U: retroarch/cores/info/nestopia_libretro.info", 
+        "U: retroarch/cores/info/mpv_libretro.info", 
+        "U: retroarch/cores/info/mame2015_libretro.info", 
+        "U: retroarch/cores/info/fmsx_libretro.info", 
+        "U: retroarch/cores/info/vice_xvic_libretro.info", 
+        "U: retroarch/cores/info/fsuae_libretro.info", 
+        "U: retroarch/cores/info/mednafen_vb_libretro.info", 
+        "U: retroarch/cores/info/bsnes2014_balanced_libretro.info", 
+        "U: retroarch/cores/info/opentyrian_libretro.info", 
+        "U: retroarch/cores/info/mess2015_libretro.info", 
+        "U: retroarch/cores/info/bsnes_mercury_accuracy_libretro.info", 
+        "U: retroarch/cores/info/snes9x2010_libretro.info", 
+        "U: retroarch/cores/info/fbalpha2012_cps1_libretro.info", 
+        "U: retroarch/cores/info/dosbox_libretro.info", 
+        "U: retroarch/cores/info/testretroluxury_libretro.info", 
+        "U: retroarch/cores/info/mednafen_pce_libretro.info", 
+        "U: retroarch/cores/info/gme_libretro.info", 
+        "U: retroarch/cores/info/picodrive_libretro.info", 
+        "U: retroarch/cores/info/mupen64plus_next_libretro.info", 
+        "U: retroarch/cores/info/boom3_libretro.info", 
+        "U: retroarch/cores/info/fceumm_libretro.info", 
+        "U: retroarch/cores/info/ppsspp_libretro.info", 
+        "U: retroarch/cores/info/dolphin_libretro.info", 
+        "U: retroarch/cores/info/supafaust_libretro.info", 
+        "U: retroarch/cores/info/mame2009_libretro.info", 
+        "U: retroarch/cores/info/vitaquake2-zaero_libretro.info", 
+        "U: retroarch/cores/info/virtualjaguar_libretro.info", 
+        "U: retroarch/cores/info/dosbox_svn_libretro.info", 
+        "U: retroarch/cores/info/vba_next_libretro.info", 
+        "U: retroarch/cores/info/mgba_libretro.info", 
+        "U: retroarch/cores/info/oberon_libretro.info", 
+        "U: retroarch/cores/info/bsnes_mercury_performance_libretro.info", 
+        "U: retroarch/cores/info/snes9x2005_libretro.info", 
+        "U: retroarch/cores/info/mesen-s_libretro.info", 
+        "U: retroarch/cores/info/testinput_buttontest_libretro.info", 
+        "U: retroarch/cores/info/imageviewer_libretro.info", 
+        "U: retroarch/cores/info/gambatte_libretro.info", 
+        "U: retroarch/cores/info/nxengine_libretro.info", 
+        "U: retroarch/cores/info/nekop2_libretro.info", 
+        "U: retroarch/cores/info/pcsx_rearmed_libretro.info", 
+        "U: retroarch/cores/info/play_libretro.info", 
+        "U: retroarch/cores/info/mednafen_gba_libretro.info", 
+        "U: retroarch/cores/info/mame2016_libretro.info", 
+        "U: retroarch/cores/info/mame2003_libretro.info", 
+        "U: retroarch/cores/info/mednafen_ngp_libretro.info", 
+        "U: retroarch/cores/info/mednafen_wswan_libretro.info", 
+        "U: retroarch/cores/info/mednafen_saturn_libretro.info", 
+        "U: retroarch/cores/info/thepowdertoy_libretro.info", 
+        "U: retroarch/cores/info/vice_xplus4_libretro.info", 
+        "U: retroarch/cores/info/quicknes_libretro.info", 
+        "U: retroarch/cores/info/cannonball_libretro.info", 
+        "U: retroarch/cores/info/emux_sms_libretro.info", 
+        "U: retroarch/cores/info/prosystem_libretro.info", 
+        "U: retroarch/cores/info/vitaquake3_libretro.info", 
+        "U: retroarch/cores/info/testsw_vram_libretro.info", 
+        "U: retroarch/cores/info/chailove_libretro.info", 
+        "U: retroarch/cores/info/meteor_libretro.info", 
+        "U: retroarch/cores/info/ecwolf_libretro.info", 
+        "U: retroarch/cores/info/hbmame_libretro.info", 
+        "U: retroarch/cores/info/fbalpha2012_libretro.info", 
+        "U: retroarch/cores/info/test_libretro.info", 
+        "U: retroarch/cores/info/81_libretro.info", 
+        "U: retroarch/cores/info/mrboom_libretro.info", 
+        "U: retroarch/cores/info/smsplus_libretro.info", 
+        "U: retroarch/cores/info/redbook_libretro.info", 
+        "U: retroarch/cores/info/crocods_libretro.info", 
+        "U: retroarch/cores/info/atari800_libretro.info", 
+        "U: retroarch/cores/info/frodo_libretro.info", 
+        "U: retroarch/cores/info/emux_chip8_libretro.info", 
+        "U: retroarch/cores/info/mupen64plus_next_gles3_libretro.info", 
+        "U: retroarch/cores/info/melonds_libretro.info", 
+        "U: retroarch/cores/info/uzem_libretro.info", 
+        "U: retroarch/cores/info/mame2010_libretro.info", 
+        "U: retroarch/cores/info/flycast_gles2_libretro.info", 
+        "U: retroarch/cores/info/squirreljme_libretro.info", 
+        "U: retroarch/cores/info/quasi88_libretro.info", 
+        "U: retroarch/cores/info/prboom_libretro.info", 
+        "U: retroarch/cores/info/citra_canary_libretro.info", 
+        "U: retroarch/cores/info/easyrpg_libretro.info", 
+        "U: retroarch/cores/info/remotejoy_libretro.info", 
+        "U: retroarch/cores/info/yabause_libretro.info", 
+        "U: retroarch/cores/info/opera_libretro.info", 
+        "U: retroarch/cores/info/freej2me_libretro.info", 
+        "U: retroarch/cores/info/pokemini_libretro.info", 
+        "U: retroarch/cores/info/vitaquake2-rogue_libretro.info", 
+        "U: retroarch/cores/info/pcsx1_libretro.info", 
+        "U: retroarch/cores/info/testsw_libretro.info", 
+        "U: retroarch/cores/info/np2kai_libretro.info", 
+        "U: retroarch/cores/info/freeintv_libretro.info", 
+        "U: retroarch/cores/info/vitaquake2_libretro.info", 
+        "U: retroarch/cores/info/scummvm_libretro.info", 
+        "U: retroarch/cores/info/mednafen_psx_hw_libretro.info", 
+        "U: retroarch/cores/info/fixnes_libretro.info", 
+        "U: retroarch/cores/info/4do_libretro.info", 
+        "U: retroarch/cores/info/bluemsx_libretro.info", 
+        "U: retroarch/cores/info/mame2003_midway_libretro.info", 
+        "U: retroarch/cores/info/lutro_libretro.info", 
+        "U: retroarch/cores/info/mu_libretro.info", 
+        "U: retroarch/cores/info/parallel_n64_libretro.info", 
+        "U: retroarch/cores/info/pcsx_rearmed_interpreter_libretro.info", 
+        "U: retroarch/cores/info/kronos_libretro.info", 
+        "U: retroarch/cores/info/dolphin_launcher_libretro.info", 
+        "U: retroarch/cores/info/mame2003_plus_libretro.info", 
+        "U: retroarch/cores/info/3dengine_libretro.info", 
+        "U: retroarch/cores/info/2048_libretro.info", 
+        "U: retroarch/cores/info/bsnes_mercury_balanced_libretro.info", 
+        "U: retroarch/cores/info/test_netplay_libretro.info", 
+        "U: retroarch/cores/info/mednafen_supergrafx_libretro.info", 
+        "U: retroarch/cores/info/vice_xpet_libretro.info", 
+        "U: retroarch/cores/info/desmume_libretro.info", 
+        "U: retroarch/cores/info/testvulkan_async_compute_libretro.info", 
+        "U: retroarch/cores/info/testgl_ff_libretro.info", 
+        "U: retroarch/cores/info/mame_libretro.info", 
+        "U: retroarch/cores/info/testgl_compute_shaders_libretro.info", 
+        "U: retroarch/cores/info/testaudio_playback_wav_libretro.info", 
+        "U: retroarch/cores/info/simcp_libretro.info", 
+        "U: retroarch/cores/info/tic80_libretro.info", 
+        "U: retroarch/cores/info/advanced_tests_libretro.info", 
+        "U: retroarch/cores/info/fixgb_libretro.info", 
+        "U: retroarch/cores/info/genesis_plus_gx_libretro.info", 
+        "U: retroarch/cores/info/fbalpha2012_cps2_libretro.info", 
+        "U: retroarch/cores/info/vitaquake2-xatrix_libretro.info", 
+        "U: retroarch/cores/info/xrick_libretro.info", 
+        "U: retroarch/cores/info/bsnes2014_accuracy_libretro.info", 
+        "U: retroarch/cores/info/pascal_pong_libretro.info", 
+        "U: retroarch/cores/info/mednafen_pce_fast_libretro.info", 
+        "U: retroarch/cores/info/gearboy_libretro.info", 
+        "U: retroarch/cores/info/mesen_libretro.info", 
+        "U: retroarch/cores/info/tyrquake_libretro.info", 
+        "U: retroarch/cores/info/higan_sfc_balanced_libretro.info", 
+        "U: retroarch/cores/info/theodore_libretro.info", 
+        "U: retroarch/cores/info/emux_nes_libretro.info", 
+        "U: retroarch/cores/info/fbalpha2012_cps3_libretro.info", 
+        "U: retroarch/cores/info/mednafen_psx_libretro.info", 
+        "U: retroarch/cores/info/handy_libretro.info", 
+        "U: retroarch/cores/info/snes9x2002_libretro.info", 
+        "U: retroarch/cores/info/dinothawr_libretro.info", 
+        "U: retroarch/cores/info/cap32_libretro.info", 
+        "U: retroarch/cores/info/parallel_n64_debug_libretro.info", 
+        "U: retroarch/cores/info/bsnes_hd_beta_libretro.info", 
+        "U: retroarch/cores/info/blastem_libretro.info", 
+        "U: retroarch/cores/info/puae_libretro.info", 
+        "U: retroarch/cores/info/vice_x64sc_libretro.info", 
+        "U: retroarch/cores/info/cruzes_libretro.info", 
+        "U: retroarch/cores/info/boom3_xp_libretro.info", 
+        "U: retroarch/cores/info/redream_libretro.info", 
+        "U: retroarch/cores/info/bsnes2014_performance_libretro.info", 
+        "U: retroarch/cores/info/vice_xcbm2_libretro.info", 
+        "U: retroarch/cores/info/px68k_libretro.info", 
+        "U: retroarch/cores/info/freechaf_libretro.info", 
+        "U: retroarch/cores/info/hatari_libretro.info", 
+        "U: retroarch/cores/info/craft_libretro.info", 
+        "U: retroarch/cores/info/bk_libretro.info", 
+        "U: retroarch/cores/info/stella2014_libretro.info", 
+        "U: retroarch/cores/info/vecx_libretro.info", 
+        "U: retroarch/cores/info/mednafen_pcfx_libretro.info", 
+        "U: retroarch/cores/info/x1_libretro.info", 
+        "U: retroarch/cores/info/testgl_libretro.info", 
+        "U: retroarch/cores/info/tempgba_libretro.info", 
+        "U: retroarch/cores/info/mupen64plus_next_develop_libretro.info", 
+        "U: retroarch/cores/info/bsnes_cplusplus98_libretro.info", 
+        "U: retroarch/cores/info/gpsp_libretro.info", 
+        "U: retroarch/cores/info/emux_gb_libretro.info", 
+        "U: retroarch/cores/info/testvulkan_libretro.info", 
+        "U: retroarch/cores/info/x64sdl_libretro.info", 
+        "U: retroarch/cores/info/dosbox_core_libretro.info", 
+        "U: retroarch/cores/info/rustation_libretro.info", 
+        "U: retroarch/cores/info/neocd_libretro.info", 
+        "U: retroarch/cores/info/stella_libretro.info", 
+        "U: retroarch/cores/info/pocketcdg_libretro.info", 
+        "U: retroarch/cores/info/dosbox_svn_ce_libretro.info", 
+        "U: retroarch/cores/info/race_libretro.info", 
+        "U: retroarch/cores/info/yabasanshiro_libretro.info", 
+        "U: retroarch/cores/info/ishiiruka_libretro.info", 
+        "U: retroarch/cores/info/00_example_libretro.info", 
+        "U: retroarch/cores/info/pcsx_rearmed_libretro_neon.info", 
+        "U: retroarch/cores/info/desmume2015_libretro.info", 
+        "U: retroarch/cores/info/testaudio_callback_libretro.info", 
+        "U: retroarch/cores/info/openlara_libretro.info", 
+        "U: retroarch/cores/info/mednafen_snes_libretro.info", 
+        "U: retroarch/cores/info/snes9x2005_plus_libretro.info", 
+        "U: retroarch/cores/info/gw_libretro.info", 
+        "U: retroarch/cores/info/vitavoyager_libretro.info", 
+        "U: retroarch/cores/info/vice_x64_libretro.info", 
+        "U: retroarch/cores/info/daphne_libretro.info", 
+        "U: retroarch/cores/info/mednafen_lynx_libretro.info", 
+        "U: retroarch/cores/info/fuse_libretro.info", 
+        "U: retroarch/cores/info/sameboy_libretro.info", 
+        "U: retroarch/cores/info/testaudio_no_callback_libretro.info", 
+        "U: retroarch/cores/info/bnes_libretro.info", 
+        "U: retroarch/cores/info/reminiscence_libretro.info", 
+        "U: retroarch/cores/info/vbam_libretro.info", 
+        "U: retroarch/cores/info/gearsystem_libretro.info", 
+        "U: retroarch/cores/info/pcem_libretro.info", 
+        "U: retroarch/cores/info/mame2000_libretro.info", 
+        "U: retroarch/cores/info/snes9x_libretro.info", 
+        "U: retroarch/cores/info/flycast_libretro.info", 
+        "U: retroarch/cores/info/fbneo_libretro.info", 
+        "U: retroarch/cores/info/citra_libretro.info", 
+        "U: retroarch/cores/info/vice_x128_libretro.info", 
+        "U: retroarch/cores/info/ffmpeg_libretro.info", 
+        "U: retroarch/cores/info/higan_sfc_libretro.info", 
+        "U: retroarch/cores/info/fbalpha2012_neogeo_libretro.info", 
+        "U: retroarch/cores/info/uae4arm_libretro.info"
+    ], 
+    "testapp": [
+        "U: apps/testapp/icon.png", 
+        "U: apps/testapp/boot.dol", 
+        "U: apps/testapp/meta.xml"
+    ], 
+    "mocha_fshax": [
+        "U: wiiu/apps/mocha_fshax/mocha_fshax.elf", 
+        "U: wiiu/apps/mocha_fshax/icon.png", 
+        "U: wiiu/apps/mocha_fshax/meta.xml"
+    ], 
+    "hid_keyboard_monitor": [
+        "U: wiiu/apps/hid_keyboard_monitor/icon.png", 
+        "U: wiiu/apps/hid_keyboard_monitor/KB_test.elf", 
+        "U: wiiu/apps/hid_keyboard_monitor/meta.xml"
+    ], 
+    "gbiine": [
+        "U: wiiu/apps/gbiine/gbiine.elf", 
+        "U: wiiu/apps/gbiine/icon.png", 
+        "U: wiiu/apps/gbiine/meta.xml"
+    ], 
+    "hidtovpad": [
+        "U: screen1.png", 
+        "U: wiiu/apps/hidtovpad/hidtovpad.elf", 
+        "U: wiiu/apps/hidtovpad/.ftpquota", 
+        "U: wiiu/apps/hidtovpad/icon.png", 
+        "U: wiiu/apps/hidtovpad/meta.xml", 
+        "U: wiiu/apps/hidtovpad/languages/italian.lang", 
+        "U: wiiu/apps/hidtovpad/languages/german.lang", 
+        "U: wiiu/apps/hidtovpad/languages/french.lang", 
+        "U: wiiu/apps/hidtovpad/languages/spanish.lang", 
+        "U: wiiu/apps/hidtovpad/languages/BR_Portuguese.lang", 
+        "U: wiiu/controller/MAYFLASH_N64_Controller_Adapter_for_PC_USB.ini", 
+        "U: wiiu/controller/GameSirG3w_NoLights.ini", 
+        "U: wiiu/controller/xinput.ini", 
+        "U: wiiu/controller/LinuxDevInputControllerXbox360.ini", 
+        "U: wiiu/controller/DualShock2.ini", 
+        "U: wiiu/controller/LinuxDevInputControllerSteam.ini", 
+        "U: wiiu/controller/iBuffalo_SNES_USB_gamepad.ini", 
+        "U: wiiu/controller/GameSirG3w_2Lights.ini", 
+        "U: wiiu/controller/Orange's BigBen BB5033 controller.ini", 
+        "U: wiiu/controller/switchpro.ini", 
+        "U: wiiu/controller/EasySMX EG-C3071_ZD-VPlus.ini", 
+        "U: wiiu/controller/Logitech_F310.ini", 
+        "U: wiiu/controller/madcatz_tes+_ps4.ini", 
+        "U: wiiu/controller/proexps3.ini", 
+        "U: wiiu/controller/ZhidongV.ini", 
+        "U: wiiu/controller/pokken_controller.ini", 
+        "U: wiiu/controller/ds4new.ini", 
+        "U: wiiu/controller/Horipad Switch.ini", 
+        "U: wiiu/controller/hori-rap4-kai.ini", 
+        "U: wiiu/controller/random_snes_pad.ini", 
+        "U: wiiu/controller/qanba q1 ps3.ini"
+    ], 
+    "pacman": [
+        "U: screen1.png", 
+        "U: wiiu/apps/pacman/galaga_sdl.rpx", 
+        "U: wiiu/apps/pacman/icon.png", 
+        "U: wiiu/apps/pacman/meta.xml"
+    ], 
+    "WUPS_dark_mode_plugin": [
+        "U: wiiu/plugins/dark_mode.mod"
+    ], 
+    "tictactoe": [
+        "U: wiiu/apps/tictactoe/boot.elf", 
+        "U: wiiu/apps/tictactoe/icon.png", 
+        "U: wiiu/apps/tictactoe/meta.xml"
+    ], 
+    "wiiu-vnc": [
+        "G: vnc.txt", 
+        "U: wiiu/apps/wiiu-vnc/wiiu-vnc.rpx", 
+        "U: wiiu/apps/wiiu-vnc/icon.png", 
+        "U: wiiu/apps/wiiu-vnc/meta.xml"
+    ], 
+    "asturoids": [
+        "U: screen2.png", 
+        "U: screen3.png", 
+        "U: screen4.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/asturoids/.DS_Store", 
+        "U: wiiu/apps/asturoids/asturoids.elf", 
+        "U: wiiu/apps/asturoids/icon.png", 
+        "U: wiiu/apps/asturoids/meta.xml"
+    ], 
+    "SDCafiine_WUPS": [
+        "U: wiiu/plugins/sdcafiine.mod"
+    ], 
+    "ourloader": [
+        "U: screen1.png", 
+        "U: wiiu/apps/ourloader/ourloader.elf", 
+        "U: wiiu/apps/ourloader/icon.png", 
+        "U: wiiu/apps/ourloader/meta.xml"
+    ], 
+    "Uclick": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/Uclick/icon.png", 
+        "U: wiiu/apps/Uclick/UClick.elf", 
+        "U: wiiu/apps/Uclick/meta.xml"
+    ], 
+    "FesTool": [
+        "U: wiiu/apps/FesTool/FesTool.elf", 
+        "U: wiiu/apps/FesTool/icon.png", 
+        "U: wiiu/apps/FesTool/meta.xml"
+    ], 
+    "keyboard_example": [
+        "U: wiiu/apps/keyboard_example/keyboard_example.elf", 
+        "U: wiiu/apps/keyboard_example/icon.png", 
+        "U: wiiu/apps/keyboard_example/meta.xml"
+    ], 
+    "pong": [
+        "U: screen1.png", 
+        "U: wiiu/apps/pong/icon.png", 
+        "U: wiiu/apps/pong/pong.elf", 
+        "U: wiiu/apps/pong/meta.xml"
+    ], 
+    "UselessHomebrew": [
+        "U: screen1.png", 
+        "U: wiiu/apps/UselessHomebrew/UselessHomebrew.elf", 
+        "U: wiiu/apps/UselessHomebrew/icon.png", 
+        "U: wiiu/apps/UselessHomebrew/meta.xml"
+    ], 
+    "flappy_bird": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/flappy_bird/flappy_bird.elf", 
+        "U: wiiu/apps/flappy_bird/icon.png", 
+        "U: wiiu/apps/flappy_bird/meta.xml"
+    ], 
+    "PacmanGX2": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/PacmanGX2/Pacman_GX2.elf", 
+        "U: wiiu/apps/PacmanGX2/icon.png", 
+        "U: wiiu/apps/PacmanGX2/meta.xml"
+    ], 
+    "IOSreboot": [
+        "U: wiiu/apps/IOSreboot/iosu-reboot.elf", 
+        "U: wiiu/apps/IOSreboot/icon.png", 
+        "U: wiiu/apps/IOSreboot/meta.xml"
+    ], 
+    "cave": [
+        "U: screen1.png", 
+        "U: wiiu/apps/cave/cave.elf", 
+        "U: wiiu/apps/cave/icon.png", 
+        "U: wiiu/apps/cave/meta.xml"
+    ], 
+    "otp2sd": [
+        "U: wiiu/apps/otp2sd/icon.png", 
+        "U: wiiu/apps/otp2sd/meta.xml", 
+        "U: wiiu/apps/otp2sd/iosu.elf"
+    ], 
+    "ScreenStreaming_WUPS": [
+        "U: wiiu/plugins/screenstreaming.mod"
+    ], 
+    "spiik": [
+        "U: screen1.png", 
+        "U: wiiu/apps/spiik/spiik.elf", 
+        "U: wiiu/apps/spiik/icon.png", 
+        "U: wiiu/apps/spiik/meta.xml"
+    ], 
+    "iosuotp": [
+        "U: wiiu/apps/iosuotp/icon.png", 
+        "U: wiiu/apps/iosuotp/meta.xml", 
+        "U: wiiu/apps/iosuotp/iosu.elf"
+    ], 
+    "RemotePad": [
+        "U: wiiu/apps/RemotePad/RemotePad.elf", 
+        "U: wiiu/apps/RemotePad/icon.png", 
+        "U: wiiu/apps/RemotePad/meta.xml"
+    ], 
+    "sigpatcher2sysmenu": [
+        "U: wiiu/apps/sigpatcher2sysmenu/sign_patcher.elf", 
+        "U: wiiu/apps/sigpatcher2sysmenu/icon.png", 
+        "U: wiiu/apps/sigpatcher2sysmenu/meta.xml"
+    ], 
+    "tik2sd": [
+        "U: screen1.png", 
+        "U: wiiu/apps/tik2sd/icon.png", 
+        "U: wiiu/apps/tik2sd/tik2sd.elf", 
+        "U: wiiu/apps/tik2sd/meta.xml"
+    ], 
+    "swipswapme": [
+        "U: wiiu/apps/swipswapme/swipswapme.elf", 
+        "U: wiiu/apps/swipswapme/icon.png", 
+        "U: wiiu/apps/swipswapme/meta.xml"
+    ], 
+    "homebrew_launcher": [
+        "U: screen1.png", 
+        "U: wiiu/apps/homebrew_launcher/icon.png", 
+        "U: wiiu/apps/homebrew_launcher/meta.xml", 
+        "U: wiiu/apps/homebrew_launcher/homebrew_launcher.elf"
+    ], 
+    "flappy_bird_3d": [
+        "U: screen2.png", 
+        "U: screen3.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/flappy_bird_3d/flappy_bird_3d.rpx", 
+        "U: wiiu/apps/flappy_bird_3d/icon.png", 
+        "U: wiiu/apps/flappy_bird_3d/meta.xml"
+    ], 
+    "drc-test": [
+        "U: screen6.png", 
+        "U: screen2.png", 
+        "U: screen5.png", 
+        "U: screen3.png", 
+        "U: screen4.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/drctest/icon.png", 
+        "U: wiiu/apps/drctest/drctest.rpx", 
+        "U: wiiu/apps/drctest/meta.xml"
+    ], 
+    "loadiine_gx2_y": [
+        "U: wiiu/apps/loadiine_gx2_y/loadiine_gx2.elf", 
+        "U: wiiu/apps/loadiine_gx2_y/icon.png", 
+        "U: wiiu/apps/loadiine_gx2_y/meta.xml"
+    ], 
+    "Pokemini": [
+        "U: wiiu/apps/Pokemini/PokeMini__retroarch_wiiu.elf", 
+        "U: wiiu/apps/Pokemini/icon.png", 
+        "U: wiiu/apps/Pokemini/meta.xml"
+    ], 
+    "jezzballu": [
+        "U: screen1.png", 
+        "U: wiiu/apps/jezzballu/jezzball.rpx", 
+        "U: wiiu/apps/jezzballu/icon.png", 
+        "U: wiiu/apps/jezzballu/meta.xml"
+    ], 
+    "TCPgecko": [
+        "U: screen1.png", 
+        "U: wiiu/apps/TCPgecko/TcpGecko.elf", 
+        "U: wiiu/apps/TCPgecko/icon.png", 
+        "U: wiiu/apps/TCPgecko/meta.xml"
+    ], 
+    "more_ra_cores": [
+        "U: retroarch/cores/mednafen_pce_fast_libretro.rpx", 
+        "U: retroarch/cores/quasi88_libretro.rpx", 
+        "U: retroarch/cores/o2em_libretro.rpx", 
+        "U: retroarch/cores/mednafen_supergrafx_libretro.rpx", 
+        "U: retroarch/cores/mednafen_wswan_libretro.rpx", 
+        "U: retroarch/cores/mednafen_ngp_libretro.rpx", 
+        "U: retroarch/cores/gambatte_libretro.rpx", 
+        "U: retroarch/cores/bluemsx_libretro.rpx", 
+        "U: retroarch/cores/pokemini_libretro.rpx", 
+        "U: retroarch/cores/cannonball_libretro.rpx", 
+        "U: retroarch/cores/stella2014_libretro.rpx", 
+        "U: retroarch/cores/vice_xplus4_libretro.rpx", 
+        "U: retroarch/cores/hatari_libretro.rpx", 
+        "U: retroarch/cores/mu_libretro.rpx", 
+        "U: retroarch/cores/81_libretro.rpx", 
+        "U: retroarch/cores/gearboy_libretro.rpx", 
+        "U: retroarch/cores/prboom_libretro.rpx", 
+        "U: retroarch/cores/snes9x2010_libretro.rpx", 
+        "U: retroarch/cores/dosbox_svn_libretro.rpx", 
+        "U: retroarch/cores/2048_libretro.rpx", 
+        "U: retroarch/cores/vecx_libretro.rpx", 
+        "U: retroarch/cores/sameboy_libretro.rpx", 
+        "U: retroarch/cores/nxengine_libretro.rpx", 
+        "U: retroarch/cores/gw_libretro.rpx", 
+        "U: retroarch/cores/bk_libretro.rpx", 
+        "U: retroarch/cores/snes9x2005_libretro.rpx", 
+        "U: retroarch/cores/mednafen_vb_libretro.rpx", 
+        "U: retroarch/cores/vice_xvic_libretro.rpx", 
+        "U: retroarch/cores/neocd_libretro.rpx", 
+        "U: retroarch/cores/vice_xpet_libretro.rpx", 
+        "U: retroarch/cores/freechaf_libretro.rpx", 
+        "U: retroarch/cores/theodore_libretro.rpx", 
+        "U: retroarch/cores/snes9x2005_plus_libretro.rpx", 
+        "U: retroarch/cores/snes9x_libretro.rpx", 
+        "U: retroarch/cores/mednafen_lynx_libretro.rpx", 
+        "U: retroarch/cores/cap32_libretro.rpx", 
+        "U: retroarch/cores/snes9x2002_libretro.rpx", 
+        "U: retroarch/cores/uzem_libretro.rpx", 
+        "U: retroarch/cores/nekop2_libretro.rpx", 
+        "U: retroarch/cores/squirreljme_libretro.rpx", 
+        "U: retroarch/cores/dosbox_libretro.rpx", 
+        "U: retroarch/cores/fixgb_libretro.rpx", 
+        "U: retroarch/cores/ecwolf_libretro.rpx", 
+        "U: retroarch/cores/vba_next_libretro.rpx", 
+        "U: retroarch/cores/quicknes_libretro.rpx", 
+        "U: retroarch/cores/atari800_libretro.rpx", 
+        "U: retroarch/cores/nestopia_libretro.rpx", 
+        "U: retroarch/cores/fuse_libretro.rpx", 
+        "U: retroarch/cores/gme_libretro.rpx", 
+        "U: retroarch/cores/vice_xcbm2_libretro.rpx", 
+        "U: retroarch/cores/tyrquake_libretro.rpx", 
+        "U: retroarch/cores/pocketcdg_libretro.rpx", 
+        "U: retroarch/cores/tgbdual_libretro.rpx", 
+        "U: retroarch/cores/x1_libretro.rpx", 
+        "U: retroarch/cores/crocods_libretro.rpx", 
+        "U: retroarch/cores/fceumm_libretro.rpx", 
+        "U: retroarch/cores/gearsystem_libretro.rpx", 
+        "U: retroarch/cores/vitaquake2_libretro.rpx", 
+        "U: retroarch/cores/fixnes_libretro.rpx", 
+        "U: retroarch/cores/mgba_libretro.rpx", 
+        "U: retroarch/cores/freeintv_libretro.rpx", 
+        "U: retroarch/cores/genesis_plus_gx_libretro.rpx"
+    ], 
+    "controller-test": [
+        "U: screen2.png", 
+        "U: screen1.png", 
+        "U: wiiu/apps/controllertest/controllertest.rpx", 
+        "U: wiiu/apps/controllertest/icon.png", 
+        "U: wiiu/apps/controllertest/meta.xml"
+    ], 
+    "vWii-NAND-Restorer": [
+        "U: wiiu/apps/vwii-nand-restorer/vwii-nand-restorer.elf", 
+        "U: wiiu/apps/vwii-nand-restorer/icon.png", 
+        "U: wiiu/apps/vwii-nand-restorer/meta.xml"
+    ], 
+    "geckiine": [
+        "U: wiiu/apps/geckiine/geckiine.elf", 
+        "U: wiiu/apps/geckiine/icon.png", 
+        "U: wiiu/apps/geckiine/meta.xml"
+    ], 
+    "SDGeckiine": [
+        "U: wiiu/apps/sdgeckiine/sdgeckiine.elf", 
+        "U: wiiu/apps/sdgeckiine/icon.png", 
+        "U: wiiu/apps/sdgeckiine/meta.xml"
+    ], 
+    "ftpiiu": [
+        "U: wiiu/apps/ftpiiu/icon.png", 
+        "U: wiiu/apps/ftpiiu/ftpiiu.elf", 
+        "U: wiiu/apps/ftpiiu/meta.xml"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "drc-test",
+  "author": "Pokes303",
+  "category": "legacy",
+  "version": "1.2",
+  "url": "https://github.com/Pokes303/drc-test/releases",
+  "license": "",
+  "description": "app for testing the DRC",
+  "details": "A WiiU homebrew/app for testing the DRC and read/write some hidden values\\n\\nFeatures for testing\\n\\nButtons/Joysticks\\nScreen/Touchscreen\\nGyroscope\\nAccelerometer\\nDirection\\nAngle\\nMagnetometer\\nVolume\\nBattery\\nVibration\\nGamepad Sensor Bar\\nGamepad BASE\\n",
+  "changelog": "-Fixed a bug where length can be >255 and results on parsing error\\n-Fixed texts\\n-Fixed exit to Home Menu from Channel version"
+}

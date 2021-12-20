@@ -1,0 +1,11 @@
+{
+  "title": "Padcon",
+  "author": "Maschell",
+  "category": "legacy",
+  "version": "0.2",
+  "url": " https://github.com/Maschell/function-patcher-example/releases ",
+  "license": "",
+  "description": "Turn Off/On WiiU Gamepad Display.",
+  "details": " Enable the \"R3\" button patch to switch the gamepage display ON/OFF. the touchscreen still work, only the display is disabled to save the battery when the display is not needed. ",
+  "changelog": ""
+}

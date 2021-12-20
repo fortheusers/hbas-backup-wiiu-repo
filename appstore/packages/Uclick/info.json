@@ -1,0 +1,11 @@
+{
+  "title": "UClick",
+  "author": "rw-r-r_0644",
+  "category": "legacy",
+  "version": "1.0",
+  "url": "https://github.com/rw-r-r-0644/lib_easy_example__UClick",
+  "license": "",
+  "description": "UClick - Click 'A' as fast as possible",
+  "details": "UClick\\n  A lib_easy example wii u homebrew written in just 72 easy lines of code as commented as possible :D\\n  Don't exitate to ask if you need help in creating you own homebrew of trying to get how this one work ;)\\n  \\n  Actual game: press 'A' as fast as possible to get higher scores\\n  ",
+  "changelog": ""
+}

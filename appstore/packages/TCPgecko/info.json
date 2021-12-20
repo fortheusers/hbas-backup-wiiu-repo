@@ -1,0 +1,11 @@
+{
+  "title": "TCPgecko",
+  "author": "Various",
+  "category": "legacy",
+  "version": "2.51",
+  "url": "https://github.com/BullyWiiPlaza/tcpgecko",
+  "license": "",
+  "description": "WiiU RAM Hacking",
+  "details": "A memory editor that does magical things to your games \\nSpecial Thanks to:\\nwj44 - elf maker \\npwsincd - icon and xml\\nbullywiiplaza - for this version.\\n\\n",
+  "changelog": ""
+}

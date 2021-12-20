@@ -1,0 +1,11 @@
+{
+  "title": "vWii Decaffeinator",
+  "author": "GaryOderNichts",
+  "category": "legacy",
+  "version": "2",
+  "url": "https://github.com/GaryOderNichts/vWii-Decaffeinator/releases",
+  "license": "GPLv3",
+  "description": "restore your vWii",
+  "details": "vWii Decaffeinator allows you to restore your vWii without the need of a NAND Backup\\nPlease backup your SLCCMPT and OTP before using this tool!\\n\\nHow does it work\\nThis uses the fact that the Wii U will redownload many missing files when performing a System Update.\\nSo this homebrew will remove Files that can be redownloaded and forces a System Update.\\nThis even works while being on the latest Firmware Version!\\n\\nHow to use\\nChoose an option from the menu and confirm with START.\\nAfter a mode has finished press any button to launch System Settings where you can perform an update.\\nThe update folder will be recreated if you deleted it! Make sure to delete it again if you want to block updates\\n\\nLight mode\\nThis will redownload every essential System Title including all IOS\\n\\nAggressive Mode\\nThis will remove EVERYTHING!\\nSave Data, Installed Channels, ...\\n\\nForce Update\\nThis will force an update which may redownload any missing files\\n\\nAdvanced options\\nThis lets you manually configure what should be redownloaded",
+  "changelog": "v2\\n\\nNow supports regenerating the setting.txt.\\nThe file will be regenerated from the consoles region and serial which can be read from the Wii U mode.\\nThis means it is now possible to restore a vWii from a 100% empty NAND."
+}

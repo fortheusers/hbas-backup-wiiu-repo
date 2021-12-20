@@ -1,0 +1,11 @@
+{
+  "title": "WUP Installer Macnolo",
+  "author": "Various",
+  "category": "legacy",
+  "version": "macnolo1.4",
+  "url": "https://github.com/mcn2004/wupinstaller/releases",
+  "license": "",
+  "description": "Instalador de titulos publicos para WIIU.",
+  "details": "Esta aplicacion homebrew te permite instalar titulos juegos, actualizaciones, dlcs en la NAND o en otro disco duro externo HDD o USB. Esta version fue modiada primero por dimok789, luego por Yardape8000, y finalmente por M4CN0L0. Fue creada por crediar. Tambien traducido al espanol por M4CN0L0.\\n  ",
+  "changelog": ""
+}

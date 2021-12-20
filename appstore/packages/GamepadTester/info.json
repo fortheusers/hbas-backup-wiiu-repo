@@ -1,0 +1,11 @@
+{
+  "title": "GamepadTester",
+  "author": "vincent-coding",
+  "category": "legacy",
+  "version": "0.1a",
+  "url": "https://github.com/vincent-coding/GamepadTester/releases",
+  "license": "Apache v2",
+  "description": "test your WiiU Gamepad",
+  "details": "A small software developed in c, allowing you to test your WiiU Gamepad.",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "FSDumper",
+  "author": "crediar",
+  "category": "legacy",
+  "version": "0.1",
+  "url": "https://twitter.com/crediar",
+  "license": "",
+  "description": "SLC/MLC file dumper",
+  "details": "The application dumps all your files from your SLC and MLC to an SD card.\\n\\nUsage:\\n--------------------------------------------------------------------------\\n\\n-prepare an SD card large enough to hold all the files.\\n SLC is around 80MB and MLC depends on your usage of it.\\n\\n-Assure there are no folders called usr or sys in the root of the SD card.\\n The dumper won't overwrite any files.\\n\\n-Load the supplied fw.img via the cfwbooter\\n(http://wupinstaller.com/FSDumperv0.1-cred.rar)\\n\\n-Load the FSDumper application via the HBL\\n\\n-After the application is done you will find the SLC files in sd:/slc_sys \\n and the MLC files in sd:/sys and sd:/usr\\n\\n--------------------------------------------------------------------------\\n  ",
+  "changelog": ""
+}

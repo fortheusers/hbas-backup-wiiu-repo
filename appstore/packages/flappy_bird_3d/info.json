@@ -1,0 +1,11 @@
+{
+  "title": "Flappy Bird 3D",
+  "author": "brienj",
+  "category": "legacy",
+  "version": "3.0",
+  "url": "https://gbatemp.net/threads/release-hbl-flappy-bird-gx2.444091/",
+  "license": "",
+  "description": "A Flappy Bird clone for Wii U",
+  "details": "A Flappy Bird clone for WiiU using 3D graphics\\n  Don't hit pipes!\\n  And don't fall down too!\\n  \\n  Press A to start and jump\\n  \\n  Uses SBS 3D, compatible TV/monitor required.\\n  \\n  Credits:\\n  rw-r-r_0644 - Original Flappy Bird GX2\\n  ",
+  "changelog": ""
+}

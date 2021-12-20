@@ -1,0 +1,11 @@
+{
+  "title": "WUP Installer",
+  "author": "Crediar, Dimok",
+  "category": "legacy",
+  "version": "1.0",
+  "url": "https://gbatemp.net/threads/wup-installer-title-installer-firmware-spoofing-3-x-5-4-0.397053/",
+  "license": "none",
+  "description": "WiiU public title installer.",
+  "details": "This application can install public titles such as game updates to your system memory (NAND) or the WiiU formatted USB.\\n  ",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Pong",
+  "author": "Relys, Dimok",
+  "category": "legacy",
+  "version": "1.1",
+  "url": "https://github.com/dimok789/pong_port",
+  "license": "",
+  "description": "Pong!",
+  "details": "Example libwiiu pong port for HBL by Relys\\n  \tQuote : after Hykem and I figured out how to use the OSScreen functions while analysing OSFatal.\\n  ",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "PokeMini",
+  "author": "libretro",
+  "category": "legacy",
+  "version": "0.01",
+  "url": "https://code.launchpad.net/~libretro/libretro/pokemini-libretro",
+  "license": "",
+  "description": "Pokemini",
+  "details": "Obscure nintendo handheld emulator (functional,no color files or savestates currently)\\n  \tUntested compile by rw-r-r_0644",
+  "changelog": ""
+}

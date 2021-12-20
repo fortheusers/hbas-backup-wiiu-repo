@@ -1,0 +1,11 @@
+{
+  "title": "SDGeckiine",
+  "author": "Sheldon10095",
+  "category": "legacy",
+  "version": "1.1",
+  "url": "https://github.com/Sheldon10095/SDGeckiine/releases",
+  "license": "GPLv3",
+  "description": "Geckiine, but with SDCafiine and TCPGecko!",
+  "details": "Geckiine, but with SDCafiine and the latest version of TCPGecko!\\n\\nUsage\\n\\nPrerequisites\\nWii U (only tested with 5.5.3, but likely works with other versions)\\nHomebrew Launcher\\nSD Card (Obviously)\\n\\nInstructions\\n\\nRun MochaCFW SD.\\n\\nLaunch SDGeckiine, and press A\\n\\nFile Paths\\nGCTU codes go here sd:/codes/\\nGame files go here sd:/sdcafiine/TITLE_ID/MODPACK_NAME/content/\\n\\nCredits\\n\\nMaschell for HID to VPad, as well as SDCafiine\\nDimok for his amazing function_hooks system and pygecko server\\nNWPlayer123 for the cafiine cient source code\\nOatmealDome for the original geckiine",
+  "changelog": "v1.1 - If the Wii U crashes, the error screen will display whether TCPGecko or SDCafiine caused the crash."
+}

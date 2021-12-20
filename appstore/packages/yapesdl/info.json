@@ -1,0 +1,11 @@
+{
+  "title": "YAPE 4 U",
+  "author": "brienj",
+  "category": "legacy",
+  "version": "0.70.2-wiiu-version",
+  "url": "https://github.com/xhp-creations/yapesdl",
+  "license": "GPLv2",
+  "description": "Commodore 64 and 264 family emulator",
+  "details": "Port of yapesdl by calmopyrin\\n\\nYou'll get best results with a USB keyboard and reading all the keyboard shortcuts in the Readme on GitHub.\\nSome functionality, such as the debug monitor, not available on Wii U yet.\\nWii U version supports the gamepad, MINUS button to open/close the settings menu.",
+  "changelog": ""
+}

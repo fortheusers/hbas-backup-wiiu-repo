@@ -1,0 +1,11 @@
+{
+  "title": "tik2sd",
+  "author": "FIX94",
+  "category": "legacy",
+  "version": "1.1u2",
+  "url": "https://github.com/FIX94/tik2sd/releases",
+  "license": "",
+  "description": "Dump WiiU tickets to SD",
+  "details": "Copy tik2sd.elf into wiiu/apps, launch it from the homebrew launcher and let it dump your console tickets and keys or the ticket of the currently inserted disc by either pressing A or B. Everything will land in a folder called tik2sd on your sd card root, console tickets will be in numbered subfolders, keys will be listed in keys.txt. The ticket of the currently inserted disc will land in a odd folder with its title id as its name. The whole process only takes a few seconds.\\n  ",
+  "changelog": ""
+}

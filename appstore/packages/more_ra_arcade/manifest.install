@@ -1,0 +1,14 @@
+U: retroarch/cores/scummvm_libretro.rpx
+U: retroarch/cores/mame2003_libretro.rpx
+U: retroarch/cores/vice_x64_libretro.rpx
+U: retroarch/cores/puae_libretro.rpx
+U: retroarch/cores/mame2000_libretro.rpx
+U: retroarch/cores/x64sdl_libretro.rpx
+U: retroarch/cores/fbneo_libretro.rpx
+U: retroarch/cores/mame2003_plus_libretro.rpx
+U: retroarch/cores/vice_x128_libretro.rpx
+U: retroarch/cores/mame2009_libretro.rpx
+U: retroarch/cores/mrboom_libretro.rpx
+U: retroarch/cores/fbalpha_libretro.rpx
+U: retroarch/cores/fbalpha2012_libretro.rpx
+U: retroarch/cores/vice_x64sc_libretro.rpx

@@ -1,0 +1,11 @@
+{
+  "title": "More Retroarch Cores",
+  "author": "Libretro",
+  "category": "emu",
+  "version": "1.9.13.2",
+  "url": "https://github.com/libretro/RetroArch/releases",
+  "license": "GPLv3",
+  "description": "Emulation Frontend",
+  "details": "This package contains every RA core for wiiu that isn't included in the primary Retroarch package and the Arcade Cores package. This is a separate package due to long install time and filesizes.\\n\\nPlease be patient while installing. We may in the future split this package again, or remove it if RA itself on Wii U gains in-app core downloading.\\n\\nThe full list of cores here is:\\n\\n2048\\n81\\natari800\\nbk\\nbluemsx\\ncannonball\\ndosbox\\ndosbox_svn\\necwolf\\nfceumm\\nfixgb\\nfixmsx\\nfixnes\\nfreeintv\\nfuse\\ngearboy\\ngearsystem\\ngenesis_plus_gx\\ngme\\ngpsp\\ngw\\nhatari\\nmednafen_lynx\\nmednafen_ngp\\nmednafen_pce_fast\\nmednafen_supergrafx\\nmednafen_vb\\nmednafen_wswan\\nmu\\nnekop2\\nneocd\\nnxengine\\no2em\\npokemini\\nprboom\\nquasi88\\nquicknes\\nsameboy\\nsnes9x2002\\nsnes9x2005\\nsnes9x2005_plus\\nsnes9x2010\\nsquirreljme\\nstella2014\\ntgbdual\\ntheodore\\ntyrquake\\nuzem\\nvba_next\\nvecx\\nvice_xcbm2\\nvice_xpet\\nvice_xplus4\\nvice_xvic\\nvitaquake2\\nx1",
+  "changelog": "1.9.13\\n\\nCores have been updated to coincide with the release of 1.9.13.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.12\\n\\nCores have been updated to coincide with the release of 1.9.12.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.11\\n\\nCores have been updated to coincide with the release of 1.9.11.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md"
+}

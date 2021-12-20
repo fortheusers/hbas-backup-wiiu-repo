@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>wiiu-vnc</name>
+	<coder>rw-r-r_0644, Compucat</coder>
+	<version>0.5</version>
+	<release_date>20190309200000</release_date>
+	<url>https://gitlab.com/4TU/wiiu-vnc</url>
+	<short_description>WIP VNC client for Wii U</short_description>
+<long_description>A VNC client for remotely viewing a computer that's running a VNC server. Currently does not have support for controlling the remote computer, and the target IP must be set up on the SD card by editing the file at sd:/vnc.txt.
+
+The file should be a text file on the SD card at sd:/vnc.txt with the following format, separated by newlines:
+[IP address]
+[password]
+
+	</long_description>
+	<category>tool</category>
+	
+</app>

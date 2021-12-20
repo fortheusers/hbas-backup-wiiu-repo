@@ -1,0 +1,11 @@
+{
+  "title": "Saviine",
+  "author": "Maschell",
+  "category": "legacy",
+  "version": "1.1b",
+  "url": "https://gbatemp.net/threads/release-saviine-wiiu-savedata-tool.399833/",
+  "license": "",
+  "description": "Savegame tool",
+  "details": "This application dumps and injects savegames of any title that is entered over network to a PC application.\\n  ",
+  "changelog": ""
+}

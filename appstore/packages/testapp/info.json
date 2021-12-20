@@ -1,0 +1,11 @@
+{
+  "title": "PowerCheck",
+  "author": "JoostinOnline",
+  "category": "legacy",
+  "version": "v1.8",
+  "url": "https://www.google.com",
+  "license": "",
+  "description": "Checks how charged your remotes are",
+  "details": "Run this and it will tell you the what percentage of battery power is left in the connected remotes, including the balance board.  It is not 100% accurate, but it's pretty close.",
+  "changelog": ""
+}

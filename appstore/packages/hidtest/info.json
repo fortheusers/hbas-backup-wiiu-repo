@@ -1,0 +1,11 @@
+{
+  "title": "HID-TEST",
+  "author": "Maschell",
+  "category": "legacy",
+  "version": "0.1",
+  "url": "https://github.com/Maschell/hid_test",
+  "license": "",
+  "description": "Displays input from HID devices",
+  "details": "Displays input from HID devices",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "sm4sh2sd",
+  "author": "Dimok, fungus",
+  "category": "legacy",
+  "version": "0.2",
+  "url": "https://github.com/thefungus/sm4sh2sd/releases",
+  "license": "",
+  "description": "Dump Sm4sh",
+  "details": "Dump Sm4sh from disc or NAND to your SD card.\\n  ",
+  "changelog": ""
+}

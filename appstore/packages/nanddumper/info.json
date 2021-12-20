@@ -1,0 +1,11 @@
+{
+  "title": "WiiU Nand Dumper",
+  "author": "koolkdev",
+  "category": "legacy",
+  "version": "0.4",
+  "url": "https://github.com/koolkdev/wiiu-nanddumper",
+  "license": "",
+  "description": "Create Full Dumps of the NAND",
+  "details": "This is a complete dumping, backuping too. It allows you to dump the NANDs, OTP and SEEPROM, per your selection.\\n\\nThis is the first tool to dump the SLC and SLCCMPT properly, including the ECC the spare data. Other tools are missing those parts, so they aren't proper backups, and can't be flashed back with hardmod. But it can be fixed with the OTP and the tools that I released\\n\\nThis homebrew dumps those things to the root of the SD, so make sure to have enough free space for your selection.\\nOptions:\\nDump SLC full and proper dump\\nDump SLCCMPT full and proper dump\\nDump MLC\\nDump OTP\\nDump SEEPROM\\n  ",
+  "changelog": "0.4\\n\\nFixed detection of FAT32 partition"
+}

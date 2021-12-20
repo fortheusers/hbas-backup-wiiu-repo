@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>SDL Controller Test</name>
+  <coder>brienj</coder>
+  <url>https://github.com/xhp-creations/quicksdl</url>
+  <version>0.9.3</version>
+  <release_date>20191018120400</release_date>
+  <short_description>A demo of the QuickSDL game engine</short_description>
+  <long_description>This example uses the QuickSDL game engine to interact with user input and display information about the state of attached controllers.</long_description>
+  <category>concept</category>
+</app>

@@ -1,0 +1,11 @@
+{
+  "title": "WiiAlarmU",
+  "author": "opendata",
+  "category": "legacy",
+  "version": "1.0",
+  "url": "https://github.com/opendata26/wiiALARMu",
+  "license": "GPLv3",
+  "description": "WiiU Alarm Clock",
+  "details": "WiiALARMu is a simple alarm for the wiiu.\\n  \t\\n  \tThanks to QuarkTheAwesome and rw-r-r_0644 for helping fix some things\\n  ",
+  "changelog": ""
+}

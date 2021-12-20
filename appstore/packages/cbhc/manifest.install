@@ -1,0 +1,7 @@
+U: wiiu/apps/cbhc/icon.png
+U: wiiu/apps/cbhc/cbhc.elf
+U: wiiu/apps/cbhc/meta.xml
+G: cbhc/bootTvTex.tga
+G: cbhc/title.txt
+G: cbhc/bootDrcTex.tga
+G: cbhc/iconTex.tga

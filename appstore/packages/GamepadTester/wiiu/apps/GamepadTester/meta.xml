@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>GamepadTester</name>
+  <coder>vincent-coding</coder>
+  <version>0.1a</version>
+  <release_date>20200504000000</release_date>
+  <short_description>Test your WiiU Gamepad</short_description>
+  <long_description>A small software developed in c, allowing you to test your WiiU Gamepad.</long_description>
+</app>

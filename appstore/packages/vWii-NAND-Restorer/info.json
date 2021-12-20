@@ -1,0 +1,11 @@
+{
+  "title": "vWii NAND Restorer",
+  "author": "GaryOderNichts",
+  "category": "legacy",
+  "version": "2",
+  "url": "https://github.com/GaryOderNichts/vWii-NAND-Restorer/releases",
+  "license": "GPLv3",
+  "description": "Restores vWii NAND Backup",
+  "details": "  \tHow To Use:\\n  \t1. Copy your nand backup to 'sd:/vwiinandrestorer/slccmpt.bin' and place your 'keys.bin/otp.bin' in the same folder\\n\t2. Run cfw (mocha or haxchi)\\n\\n\tRestore NAND:\\n\t- This will clear your SLCCMPT, extract the nand backup to your slccmpt and fix permissions\\n\\n\tAdditional Options:\\n\\n\tExtract NAND:\\n\t- Extracts your NAND to \"sd:/vwiinandrestorer/extracted\"\\n\\n\tClear SLCCMPT:\\n\t- This clears your SLCCMPT\\n\\n\tCopy extracted NAND to SLCCMPT:\\n\t- Copies everything from sd:/vwiinandrestorer/extracted to your SLCCMPT\\n\t- This can be useful if you have an already extracted NAND Backup that you want to restore\\n\\n\tFix modes:\\n\t- This fixes the modes of your SLCCMPT\\n\t- Needed after copying file to the SLCCMPT",
+  "changelog": "v2:\\n - Add support for 'Dump Mii Nand' Nand Dumps\\n - Fix issue that may have resulted in incorrect file sizes for a few files\\n\\nv1:\\n- Initial Releas"
+}

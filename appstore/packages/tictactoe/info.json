@@ -1,0 +1,11 @@
+{
+  "title": "tictactoe",
+  "author": "rw-r-r_0644",
+  "category": "legacy",
+  "version": "0,2",
+  "url": "https://github.com/rw-r-r-0644/TicTacToe-WiiU",
+  "license": "",
+  "description": "Tic Tac Toe-WiiU",
+  "details": "The Classic Tic tac toe (noughts and crosses) coded for the wiiu by rw-r-r-0644.\\n\\nPorted to be HBL compliant by Creepermario.\\n\\nMeta and Icon by pwsincd.\\n",
+  "changelog": ""
+}

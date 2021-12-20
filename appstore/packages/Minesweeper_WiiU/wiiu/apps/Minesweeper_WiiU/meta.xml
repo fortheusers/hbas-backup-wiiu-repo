@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Minesweeper WiiU</name>
+  <coder>Cid2mizard</coder>
+  <version>1.0</version>
+  <release_date>20180922180000</release_date>
+  <short_description>Minesweeper is a single-player puzzle video game.</short_description> 
+  <long_description>Minesweeper is a single-player puzzle video game.
+The objective of the game is to clear a rectangular board containing hidden "mines" without detonating any of them, with help from clues about the number of neighboring mines in each field.
+The game originates from the 1960s, and has been written for many computing platforms in use today.
+
+
+Features :
+	- 3 difficulty levels (Easy, Normal and Hard)
+	- Custom Level
+	- Highscore
+	
+
+Controls :
+	- Double Touch or D-pad + A : Menu Selection
+	- Short Touch or Short A : Discover case/Delete flag
+	- Long Touch or Long A : Place flag
+	- B : Back to menu
+	- X : Restart game
+	- Plus : Exit game
+
+
+Changelog :
+v1.0
+	- Initial Release.
+
+[Ported to WiiU by rw-r-r-0644, all the credits to the original author, Cid2mizard]
+</long_description>
+<category>game</category>
+<url>https://github.com/rw-r-r-0644/Minesweeper_WiiU/releases</url> 
+</app>

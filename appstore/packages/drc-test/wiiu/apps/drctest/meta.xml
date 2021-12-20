@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>drc-test</name>
+  <coder>Pokes303</coder>
+  <version>1.2</version>
+  <release_date>20190605000000</release_date>
+  <short_description>Test your WiiU Gamepad</short_description> 
+  <long_description>This app is made for testing your WiiU Gamepad Buttons, Scree, Gyroscope, Accelerometer, Vibration... And read/write some hidden values from Volume, Battery, Sensor Bar, Gamepad BASE, etc...
+  
+  Source code can be found here: https://github.com/Pokes303/drc-test
+  </long_description> 
+
+</app>

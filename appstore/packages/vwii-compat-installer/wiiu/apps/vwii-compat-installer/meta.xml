@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Compat Title Installer</name>
+	<coder>TheLordScruffy</coder>
+	<version>1.1</version>
+	<release_date>2021</release_date>
+	<short_description>Install the Homebrew Channel to the vWii Menu from Wii U Mode.</short_description>
+	<long_description>Install a channel to the vWii Menu from Wii U Mode. In its current state, it simply installs the Homebrew Channel.
+
+Credits to:
+
+- Dimok, smealum, others for iosuhax and Mocha CFW.
+- FIX94, this repo is largely based off of wuphax.
+
+source code: https://github.com/TheLordScruffy/vwii-compat-installer
+
+	</long_description>
+</app>

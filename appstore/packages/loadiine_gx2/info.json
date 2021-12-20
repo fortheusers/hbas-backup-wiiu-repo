@@ -1,0 +1,11 @@
+{
+  "title": "Loadiine GX2",
+  "author": "Dimok, Maschell, n1ghty, dibas",
+  "category": "legacy",
+  "version": "loadiine-nightly-2ae7fe4",
+  "url": "https://github.com/dimok789/loadiine_gx2/releases",
+  "license": "",
+  "description": "WiiU game loader",
+  "details": "Loads games from SD card.\\n\\n  Compatibility list:\\n  http://wiki.gbatemp.net/wiki/Loadiine_compatibility_list\\n\\n  Sources:\\n  https://github.com/dimok789/loadiine_gx2\\n  ",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Simple SDL Snake",
+  "author": "ulquiorra-dev",
+  "category": "legacy",
+  "version": "0.1",
+  "url": "https://github.com/ulquiorra-dev/Simple_SDL_Snake_WiiU_Port",
+  "license": "GPLv3",
+  "description": "Snake game",
+  "details": "\\n This is a simple snake game for WiiU made using SDL and C++\\n\\nThanks to all who help me.  \\n  \\n  \\n\\n  ",
+  "changelog": ""
+}

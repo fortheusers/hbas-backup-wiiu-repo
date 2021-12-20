@@ -1,0 +1,11 @@
+{
+  "title": "Loadiine GX2",
+  "author": "Dimok",
+  "category": "legacy",
+  "version": "y1.0.1",
+  "url": "https://github.com/Yardape8000/loadiine_gx2",
+  "license": "",
+  "description": "WiiU game loader",
+  "details": "Loads games from SD card.\\n\\nYardape8000 :\\nThis is a fork of @masqchips fork.\\nFixed DLC for multiple content such as Wii Sports Club.\\nRemoved No Legitimate DLC. Now there is just a \"DLC on SD\" Turn it on to use a backup of your DLC located on the SD card. Turn it off to use regular DLC.\\n  ",
+  "changelog": ""
+}

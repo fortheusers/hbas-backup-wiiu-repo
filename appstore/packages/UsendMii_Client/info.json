@@ -1,0 +1,11 @@
+{
+  "title": "MiisendU Wii U",
+  "author": "Crayon2000",
+  "category": "tool",
+  "version": "1.0.0",
+  "url": "https://github.com/Crayon2000/MiisendU-Wii-U/",
+  "license": "",
+  "description": "A UsendMii client",
+  "details": "This homebrew for the Wii U is a UsendMii client application. The button states from the Wii U GamePad and the Wii Remotes will be sent to the server.",
+  "changelog": "1.0.0\\n\\nChange application name from UsendMii Client to MiisendU Wii U.\\nPrevent dead zones with emulated buttons.\\n\\n0.3.0\\n\\nThe TV button will not open the TV Remote screen anymore.\\n\\n0.2.0\\n\\nSend Wii Remote button states to UsendMii.\\nUse a better default IP address.\\nUse Wii U Toolchain (wut) from devkitPro."
+}

@@ -1,0 +1,11 @@
+{
+  "title": "WUP Installer",
+  "author": "Crediar, Dimok ,Yardape8000",
+  "category": "legacy",
+  "version": "y1.3",
+  "url": "https://github.com/Yardape8000/wupinstaller/releases",
+  "license": "",
+  "description": "WiiU public title installer.",
+  "details": "This application can install public titles such as game updates to your system memory (NAND) or the WiiU formatted USB.\\n  ",
+  "changelog": ""
+}

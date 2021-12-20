@@ -1,0 +1,11 @@
+{
+  "title": "Arcade Retroarch Cores",
+  "author": "Libretro",
+  "category": "emu",
+  "version": "1.9.13.2",
+  "url": "https://github.com/libretro/RetroArch/releases",
+  "license": "GPLv3",
+  "description": "Emulation Frontend",
+  "details": "This package contains Arcade RA core for wiiu that aren't included in the primary Retroarch package and the More Cores package. This is a separate package due to long install time and filesizes.\\n\\nPlease be patient while installing. We may in the future split this package again, or remove it if RA itself on Wii U gains in-app core downloading.\\n\\nThe full list of cores here is:\\n\\nfbalpha\\nfbalpha2012\\nfbneo\\nmame2000\\nmame2003\\nmame2003_plus\\nmame2009\\nmrboom\\npuae\\nscummvm\\nvice_x128\\nvice_x64\\nvice_x64sc\\nx64sdl",
+  "changelog": "1.9.13\\n\\nCores have been updated to coincide with the release of 1.9.13.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.12\\n\\nCores have been updated to coincide with the release of 1.9.12.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.11\\n\\nCores have been updated to coincide with the release of 1.9.11.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md"
+}

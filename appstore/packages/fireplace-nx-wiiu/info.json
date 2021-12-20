@@ -1,0 +1,11 @@
+{
+  "title": "Fireplace-NX-wiiu",
+  "author": "rw-r-r-0644",
+  "category": "legacy",
+  "version": "0.1",
+  "url": "https://github.com/rw-r-r-0644/Fireplace-NX-wiiu/releases",
+  "license": "",
+  "description": "A lovely pixelated fireplace",
+  "details": "\\nA lovely pixelated fireplace simulator for the Nintendo Wii U\\n\\nPress Home to exit to HBL\\nThis is a port of Fireplace-NX, all the credits to the original Nintendo Switch app author (Marice)\\n\\nSource: https://github.com/Marice/Fireplace-NX\\n\\nPorted to Nintendo Switch from: https://www.hanshq.net/fire.html\\n\\nLogo from Clipartsign.com\\n  ",
+  "changelog": ""
+}

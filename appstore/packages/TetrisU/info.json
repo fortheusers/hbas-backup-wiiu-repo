@@ -1,0 +1,11 @@
+{
+  "title": "TetrisU",
+  "author": "ulquiorra-dev",
+  "category": "legacy",
+  "version": "0.1",
+  "url": "https://github.com/ulquiorra-dev/SDL_TETRIS_WiiU_Port",
+  "license": "",
+  "description": "WiiU Homebrew",
+  "details": "\\n  This is a simple tetris game for wii u\\n  made using SDL and C++\\n\\n  thanks to all who help me.\\n\\n  ",
+  "changelog": ""
+}

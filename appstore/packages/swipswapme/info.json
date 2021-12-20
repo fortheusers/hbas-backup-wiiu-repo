@@ -1,0 +1,11 @@
+{
+  "title": "SwipSwapMe",
+  "author": "Maschell",
+  "category": "legacy",
+  "version": "0.2",
+  "url": "https://github.com/Maschell/function-patcher-example/tree/swipswapme",
+  "license": "",
+  "description": "Switch TV display onto the gamepad",
+  "details": "Swap your TV and DRC displays.\\n\t",
+  "changelog": ""
+}

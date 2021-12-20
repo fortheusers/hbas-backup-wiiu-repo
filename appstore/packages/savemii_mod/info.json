@@ -1,0 +1,11 @@
+{
+  "title": "SaveMii Mod",
+  "author": "Ryuzaki_MrL (GabyPCgeeK mod)",
+  "category": "legacy",
+  "version": "1.2.0.mod5",
+  "url": "https://github.com/GabyPCgeeK/savemii/releases",
+  "license": "",
+  "description": "WiiU/vWii Save Manager",
+  "details": "WiiU/vWii Save Manager\\n\\nYou need to run haxchi/iosuhax/mocha cfw first in order for this homebrew to work.\\n\\nThis homebrew allows you to backup your Wii U and vWii savegames to the SD card and also restore them. Can also copy saves from NAND-USB if title is installed to both. Up to 256 backups can be made per title. Backups are stored in sd:/wiiu/backups.",
+  "changelog": "This version was released on gbatemp and has not been pushed to the current github.\\n\\nThe version here is not the latest version on github.\\n\\nhttps://gbatemp.net/threads/who-else-is-getting-black-screens-in-savemii-mod.484141/\\n\\nBut carries fixes for the black screen some users were experiencing."
+}

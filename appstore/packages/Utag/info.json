@@ -1,0 +1,11 @@
+{
+  "title": "UTag",
+  "author": "RiiConnect24",
+  "category": "legacy",
+  "version": "1.0.1",
+  "url": "https://github.com/RiiConnect24/UTag/releases",
+  "license": "GPLv3",
+  "description": "RiiTag for Wii U",
+  "details": "A Wii U plugin whichs sends the titles you play to your RiiTag!",
+  "changelog": ""
+}

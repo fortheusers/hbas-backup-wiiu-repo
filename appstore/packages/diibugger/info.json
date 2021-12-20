@@ -1,0 +1,11 @@
+{
+  "title": "Dibugger HBL",
+  "author": "jam1garner",
+  "category": "legacy",
+  "version": "1.0",
+  "url": "https://github.com/jam1garner/diibugger-hbl/releases",
+  "license": "",
+  "description": "A debugger for Wii U",
+  "details": " Homebrew launcher compatible version of diibugger, a debugger for Wii U\\n\\n  \tCredits : Kinnay\\n  ",
+  "changelog": ""
+}

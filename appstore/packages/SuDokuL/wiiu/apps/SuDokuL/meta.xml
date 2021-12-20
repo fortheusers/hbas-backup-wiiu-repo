@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>SuDokuL</name>
+  <coder>Mips96</coder>
+  <version>1.11</version>
+  <release_date>20211005170000</release_date>
+  <short_description>Sudoku made with SDL2</short_description>
+  <long_description>A Sudoku game made with SDL2.
+  
+  https://github.com/Mips96/SuDokuL
+  
+  Music by assorted artists from modarchive.org; credits are listed in-game.
+  </long_description>
+</app>

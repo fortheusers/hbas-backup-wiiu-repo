@@ -1,0 +1,11 @@
+{
+  "title": "OurLoader",
+  "author": "OurBrew (coc4tm)",
+  "category": "legacy",
+  "version": "1.0",
+  "url": "https://github.com/jemisa/OurLoader/releases",
+  "license": "",
+  "description": "Region free disk loader for Wii U",
+  "details": "\\nRegion free disk loader for Wii U\\n\\nBased on Wii U hello world , DDD and easy_lib (thanks @rw-r-r-0644)\\n\\nUse patch from @QuarkTheAwesome , @wj444 and @rw-r-r-0644\\n",
+  "changelog": ""
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UFDiine",
+  "author": "GaryOderNichts",
+  "category": "legacy",
+  "version": "1.1",
+  "url": "https://github.com/GaryOderNichts/UFDiine/releases",
+  "license": "",
+  "description": "Wii U Update Folder Deleter",
+  "details": "Wii U Update Folder Deleter\\n\\nDelete or create the update folder located at /vol/storage_mlc01/sys/update",
+  "changelog": "1.1\\n\\nFix mode for update folder creation"
+}

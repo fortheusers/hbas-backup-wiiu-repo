@@ -1,0 +1,11 @@
+{
+  "title": "SDcafiine",
+  "author": "Chadderz Maschell",
+  "category": "legacy",
+  "version": "1.4",
+  "url": "https://gbatemp.net/threads/sdcafiine.471360/",
+  "license": "",
+  "description": "SDCafiine (HBL version)",
+  "details": "Put your files into \"SD:/sdcafiine/TITLEID/MODPACK/content\" or \"SD:/sdcafiine/TITLEID//MODPACKaoc\" where TITLEID is your 16 byte long TileID.\\n\\nCREDITS : \\nCafiine creation - chadderz (and MrBean35000vr ?) \\nInital SDCafiine creation - golden45 (see https://gbatemp.net/goto/post?id=5680630) \\nHBL support and further improvements - Maschell\\nminor improvements - Zarklord\\nIcon and Meta by pwsincd\\n  ",
+  "changelog": ""
+}

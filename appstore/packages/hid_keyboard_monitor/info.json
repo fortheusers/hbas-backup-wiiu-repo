@@ -1,0 +1,11 @@
+{
+  "title": "HID Keyboard Monitor",
+  "author": "rw-r-r_0644",
+  "category": "legacy",
+  "version": "v1.0",
+  "url": "https://github.com/rw-r-r-0644/KB_test",
+  "license": "",
+  "description": "Reads from USB Keyboards",
+  "details": "This program makes use of the nsyskbd library to read from connected USB Keyboards.\\n\\nRE and code by rw-r-r_0644\\n    ",
+  "changelog": ""
+}

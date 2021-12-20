@@ -1,0 +1,11 @@
+{
+  "title": "Menu Sort",
+  "author": "doino-gretchenliev",
+  "category": "legacy",
+  "version": "1.2.0",
+  "url": "https://github.com/doino-gretchenliev/menu_sort/releases",
+  "license": "",
+  "description": "WiiU Menu Sort",
+  "details": "Sorts items on Wii U Menu.\\n\\n  \tPlease note this app requires additional files to run should you want to filter your sort .. please read the info at \\n  \thttps://gbatemp.net/threads/wii-u-menu-sort.455132/ \\n  ",
+  "changelog": "1.2.0\\n\\nItems count added.\\n\\n1.1.0\\n\\nAdded support for backup and restore.\\n\\n1.0.0\\nDropped dontmove hex file and added support for dontmove text file.\\nAdded new bad naming sorting mode.\\nImprove screen operations.\\n\\n0.2.0\\n\\nAdded support for demo games(00050002).\\nThe script ignores leading The in game's name.\\nBuild against the latest devkit."
+}

@@ -1,0 +1,11 @@
+{
+  "title": "SEEPROM2SD",
+  "author": "dimok",
+  "category": "legacy",
+  "version": "1.0",
+  "url": "https://github.com/dimok789/seeprom2sd/releases/tag/v1.0",
+  "license": "",
+  "description": "Dump seeprom to sd",
+  "details": "Dumping the Wii U EEPROM through the SPI connection to a file on your SD card.\\n  ",
+  "changelog": ""
+}
