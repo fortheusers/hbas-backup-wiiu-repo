@@ -1179,25 +1179,6 @@
             "md5": "a8044da6bc0a133c3d5b219cad542543"
         }, 
         {
-            "category": "emu", 
-            "binary": "none", 
-            "updated": "13/11/2021", 
-            "name": "more_ra_arcade", 
-            "license": "GPLv3", 
-            "title": "Arcade Retroarch Cores", 
-            "url": "https://github.com/libretro/RetroArch/releases", 
-            "description": "Emulation Frontend", 
-            "author": "Libretro", 
-            "changelog": "1.9.13\\n\\nCores have been updated to coincide with the release of 1.9.13.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.12\\n\\nCores have been updated to coincide with the release of 1.9.12.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.11\\n\\nCores have been updated to coincide with the release of 1.9.11.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md", 
-            "screens": 0, 
-            "extracted": 233288, 
-            "version": "1.9.13.2", 
-            "filesize": 181845, 
-            "details": "This package contains Arcade RA core for wiiu that aren't included in the primary Retroarch package and the More Cores package. This is a separate package due to long install time and filesizes.\\n\\nPlease be patient while installing. We may in the future split this package again, or remove it if RA itself on Wii U gains in-app core downloading.\\n\\nThe full list of cores here is:\\n\\nfbalpha\\nfbalpha2012\\nfbneo\\nmame2000\\nmame2003\\nmame2003_plus\\nmame2009\\nmrboom\\npuae\\nscummvm\\nvice_x128\\nvice_x64\\nvice_x64sc\\nx64sdl", 
-            "app_dls": 6921, 
-            "md5": "549065b5c3737745e671589e541a9931"
-        }, 
-        {
             "category": "tool", 
             "binary": "none", 
             "updated": "10/04/2021", 
@@ -1937,25 +1918,6 @@
             "details": "This APP requires the WiiU plugin system Loader to function\\n\\nStill an early PROOF OF CONCEPT. DON'T EXPECT MAGIC.\\nThis is just a simple plugin that allows you to stream the content of the Gamepad or TV screen to your Computer. With default settings streams in a resolution of 428x240 with selft adjusting quality and tries to achieve as much fps as possible.\\nIt's possible to adjust the resolution via the config menu (Press L, DPAD DOWN and MINUS on your Wii U Gamepad whenever using the home menu is allowed).\\n\\nBut general notes:\\n\\nThis is still an early PoC.\\nEncoding is done in software, not hardware.\\nIt probably affects gameplay. Loading times are increased, games could lag. I wouldn't recommend you to play online.\\nAll settings are hardcoded. In the future it will (hopefully) be possible to choose the screen to stream (TV or DRC), at which resolution and which quality.\\nNo streaming of the home menu.\\nProbably unstable.\\nSome games might be too dark, some might be too bright, some doesn't work at all.\\nCurrently streaming is achieved via a custom Java client.\\nConfiguration\\nWhile the plugin is running, is possible to configure certain parameters. To open the config menu press L, DPAD DOWN and MINUS on your Wii U Gamepad. For more information check the Wii U Plugin System. Currently the following options are available:\\n\\nChange the resolution, possible options: 240p, 360p and 480p\\nChoose the screen to stream, possible options: Gamepad, TV.\\nUsage\\nSimply load the plugin with the plugin loader, after that start the StreamingPluginClient. The StreamingPluginClient requires a computer with Java 8. Double click on the .jar and enter the IP address of your Wii U console.\\n\\nIf you don't know the IP of your Wii U, you can start for example ftpiiu which shows the IP when ", 
             "app_dls": 4889, 
             "md5": "26bc8a20f85402b5fac00b8e597b715d"
-        }, 
-        {
-            "category": "emu", 
-            "binary": "none", 
-            "updated": "13/11/2021", 
-            "name": "more_ra_cores", 
-            "license": "GPLv3", 
-            "title": "More Retroarch Cores", 
-            "url": "https://github.com/libretro/RetroArch/releases", 
-            "description": "Emulation Frontend", 
-            "author": "Libretro", 
-            "changelog": "1.9.13\\n\\nCores have been updated to coincide with the release of 1.9.13.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.12\\n\\nCores have been updated to coincide with the release of 1.9.12.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md\\n\\n1.9.11\\n\\nCores have been updated to coincide with the release of 1.9.11.\\nhttps://github.com/libretro/RetroArch/blob/master/CHANGES.md", 
-            "screens": 0, 
-            "extracted": 338105, 
-            "version": "1.9.13.2", 
-            "filesize": 315055, 
-            "details": "This package contains every RA core for wiiu that isn't included in the primary Retroarch package and the Arcade Cores package. This is a separate package due to long install time and filesizes.\\n\\nPlease be patient while installing. We may in the future split this package again, or remove it if RA itself on Wii U gains in-app core downloading.\\n\\nThe full list of cores here is:\\n\\n2048\\n81\\natari800\\nbk\\nbluemsx\\ncannonball\\ndosbox\\ndosbox_svn\\necwolf\\nfceumm\\nfixgb\\nfixmsx\\nfixnes\\nfreeintv\\nfuse\\ngearboy\\ngearsystem\\ngenesis_plus_gx\\ngme\\ngpsp\\ngw\\nhatari\\nmednafen_lynx\\nmednafen_ngp\\nmednafen_pce_fast\\nmednafen_supergrafx\\nmednafen_vb\\nmednafen_wswan\\nmu\\nnekop2\\nneocd\\nnxengine\\no2em\\npokemini\\nprboom\\nquasi88\\nquicknes\\nsameboy\\nsnes9x2002\\nsnes9x2005\\nsnes9x2005_plus\\nsnes9x2010\\nsquirreljme\\nstella2014\\ntgbdual\\ntheodore\\ntyrquake\\nuzem\\nvba_next\\nvecx\\nvice_xcbm2\\nvice_xpet\\nvice_xplus4\\nvice_xvic\\nvitaquake2\\nx1", 
-            "app_dls": 9380, 
-            "md5": "845c9a62d258cf98e649ce7ed606a047"
         }, 
         {
             "category": "concept", 
